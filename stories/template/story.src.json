@@ -2,12 +2,12 @@
   "scriptVersion": 1,
   "id": "found-phone-kakao",
   "title": "捡手机",
-  "description": "一部被遗落在路边的手机。锁屏密码 0000，KakaoTalk 里有四个人在等你回消息。",
+  "description": "2026 年 1 月 13 日，18:16。你从便利店后门跑出来，手机在口袋里一直响。锁屏密码 0000。",
   "revision": 1,
   "phone": {
     "owner": "我",
     "date": "2026-01-13",
-    "time": "21:47",
+    "time": "18:16",
     "battery": 62,
     "network": "5G",
     "passcode": "0000",
@@ -1062,229 +1062,267 @@
           "kind": "call",
           "meta": {
             "callType": "missed"
-          }
+          },
+          "hidden": true
         },
         {
           "id": "kk-164",
           "senderId": "kwon-oryul",
           "time": "2026-01-13 18:23",
-          "body": "你在哪？"
+          "body": "你在哪？",
+          "hidden": true
         },
         {
           "id": "kk-165",
           "senderId": "kwon-oryul",
           "time": "2026-01-13 18:24",
-          "body": "接电话"
+          "body": "接电话",
+          "hidden": true
         },
         {
           "id": "kk-166",
           "senderId": "kwon-oryul",
           "time": "2026-01-13 18:24",
-          "body": "求你了"
+          "body": "求你了",
+          "hidden": true
         },
         {
           "id": "kk-167",
           "senderId": "kwon-oryul",
           "time": "2026-01-13 18:25",
-          "body": "我没有生气"
+          "body": "我没有生气",
+          "hidden": true
         },
         {
           "id": "kk-168",
           "senderId": "kwon-oryul",
           "time": "2026-01-13 18:25",
-          "body": "你先告诉我你在哪里"
+          "body": "你先告诉我你在哪里",
+          "hidden": true
         },
         {
           "id": "kk-169",
           "senderId": "kwon-oryul",
           "time": "2026-01-13 18:26",
-          "body": "我去接你好不好？"
+          "body": "我去接你好不好？",
+          "hidden": true
         },
         {
           "id": "kk-170",
           "senderId": "kwon-oryul",
           "time": "2026-01-13 18:27",
-          "body": "你是不是不想见我？"
+          "body": "你是不是不想见我？",
+          "hidden": true
         },
         {
           "id": "kk-171",
           "senderId": "kwon-oryul",
           "time": "2026-01-13 18:29",
-          "body": "你今天本来就要跟我说分手，对吗？"
+          "body": "你今天本来就要跟我说分手，对吗？",
+          "hidden": true
         },
         {
           "id": "kk-172",
           "senderId": "kwon-oryul",
           "time": "2026-01-13 18:30",
-          "body": "为什么不告诉我？"
+          "body": "为什么不告诉我？",
+          "hidden": true
         },
         {
           "id": "kk-173",
           "senderId": "kwon-oryul",
           "time": "2026-01-13 18:31",
-          "body": "是因为我今天要跟你求婚，所以你才跑了吗？"
+          "body": "是因为我今天要跟你求婚，所以你才跑了吗？",
+          "hidden": true
         },
         {
           "id": "kk-174",
           "senderId": "kwon-oryul",
           "time": "2026-01-13 18:33",
-          "body": "你不用因为这个答应我。"
+          "body": "你不用因为这个答应我。",
+          "hidden": true
         },
         {
           "id": "kk-175",
           "senderId": "kwon-oryul",
           "time": "2026-01-13 18:34",
-          "body": "我不是想用这个留住你。"
+          "body": "我不是想用这个留住你。",
+          "hidden": true
         },
         {
           "id": "kk-176",
           "senderId": "kwon-oryul",
           "time": "2026-01-13 18:36",
-          "body": "你接一下电话，好不好？"
+          "body": "你接一下电话，好不好？",
+          "hidden": true
         },
         {
           "id": "kk-177",
           "senderId": "kwon-oryul",
           "time": "2026-01-13 20:47",
-          "body": "我知道你可能不想听我说话"
+          "body": "我知道你可能不想听我说话",
+          "hidden": true
         },
         {
           "id": "kk-178",
           "senderId": "kwon-oryul",
           "time": "2026-01-13 20:48",
-          "body": "我也知道你可能已经决定好了"
+          "body": "我也知道你可能已经决定好了",
+          "hidden": true
         },
         {
           "id": "kk-179",
           "senderId": "kwon-oryul",
           "time": "2026-01-13 20:50",
-          "body": "我只是有点不明白"
+          "body": "我只是有点不明白",
+          "hidden": true
         },
         {
           "id": "kk-180",
           "senderId": "kwon-oryul",
           "time": "2026-01-13 20:51",
-          "body": "我们最近确实经常吵架"
+          "body": "我们最近确实经常吵架",
+          "hidden": true
         },
         {
           "id": "kk-181",
           "senderId": "kwon-oryul",
           "time": "2026-01-13 20:52",
-          "body": "我知道你很累"
+          "body": "我知道你很累",
+          "hidden": true
         },
         {
           "id": "kk-182",
           "senderId": "kwon-oryul",
           "time": "2026-01-13 20:54",
-          "body": "我一直在想是不是我做得不够好"
+          "body": "我一直在想是不是我做得不够好",
+          "hidden": true
         },
         {
           "id": "kk-183",
           "senderId": "kwon-oryul",
           "time": "2026-01-13 20:55",
-          "body": "是不是我太黏你了"
+          "body": "是不是我太黏你了",
+          "hidden": true
         },
         {
           "id": "kk-184",
           "senderId": "kwon-oryul",
           "time": "2026-01-13 20:56",
-          "body": "是不是我总是让你有压力"
+          "body": "是不是我总是让你有压力",
+          "hidden": true
         },
         {
           "id": "kk-185",
           "senderId": "kwon-oryul",
           "time": "2026-01-13 20:58",
-          "body": "我想过很多次"
+          "body": "我想过很多次",
+          "hidden": true
         },
         {
           "id": "kk-186",
           "senderId": "kwon-oryul",
           "time": "2026-01-13 21:00",
-          "body": "但是我没想到你已经想跟我分手了"
+          "body": "但是我没想到你已经想跟我分手了",
+          "hidden": true
         },
         {
           "id": "kk-187",
           "senderId": "kwon-oryul",
           "time": "2026-01-13 21:01",
-          "body": "对不起"
+          "body": "对不起",
+          "hidden": true
         },
         {
           "id": "kk-188",
           "senderId": "kwon-oryul",
           "time": "2026-01-13 21:02",
-          "body": "我本来想今天问你的"
+          "body": "我本来想今天问你的",
+          "hidden": true
         },
         {
           "id": "kk-189",
           "senderId": "kwon-oryul",
           "time": "2026-01-13 21:03",
-          "body": "想问你愿不愿意跟我一直在一起"
+          "body": "想问你愿不愿意跟我一直在一起",
+          "hidden": true
         },
         {
           "id": "kk-190",
           "senderId": "kwon-oryul",
           "time": "2026-01-13 21:04",
-          "body": "我准备了很久"
+          "body": "我准备了很久",
+          "hidden": true
         },
         {
           "id": "kk-191",
           "senderId": "kwon-oryul",
           "time": "2026-01-13 21:06",
-          "body": "但你不用因为这个觉得对不起我"
+          "body": "但你不用因为这个觉得对不起我",
+          "hidden": true
         },
         {
           "id": "kk-192",
           "senderId": "kwon-oryul",
           "time": "2026-01-13 21:08",
-          "body": "我不想你因为可怜我，或者怕我难过，就继续跟我在一起"
+          "body": "我不想你因为可怜我，或者怕我难过，就继续跟我在一起",
+          "hidden": true
         },
         {
           "id": "kk-193",
           "senderId": "kwon-oryul",
           "time": "2026-01-13 21:09",
-          "body": "我只是想知道"
+          "body": "我只是想知道",
+          "hidden": true
         },
         {
           "id": "kk-194",
           "senderId": "kwon-oryul",
           "time": "2026-01-13 21:10",
-          "body": "你以前喜欢我的时候，是真的吗？"
+          "body": "你以前喜欢我的时候，是真的吗？",
+          "hidden": true
         },
         {
           "id": "kk-195",
           "senderId": "kwon-oryul",
           "time": "2026-01-13 21:15",
-          "body": "如果你今天不知道求婚的事是不是就不会跟我分手？"
+          "body": "如果你今天不知道求婚的事是不是就不会跟我分手？",
+          "hidden": true
         },
         {
           "id": "kk-196",
           "senderId": "kwon-oryul",
           "time": "2026-01-13 21:16",
-          "body": "是不是我逼得太紧了我们也没有在一起很久"
+          "body": "是不是我逼得太紧了我们也没有在一起很久",
+          "hidden": true
         },
         {
           "id": "kk-197",
           "senderId": "kwon-oryul",
           "time": "2026-01-13 21:17",
-          "body": "我很担心你"
+          "body": "我很担心你",
+          "hidden": true
         },
         {
           "id": "kk-198",
           "senderId": "kwon-oryul",
           "time": "2026-01-13 21:18",
-          "body": "我以为等你不忙了我们就会好起来"
+          "body": "我以为等你不忙了我们就会好起来",
+          "hidden": true
         },
         {
           "id": "kk-199",
           "senderId": "kwon-oryul",
           "time": "2026-01-13 21:19",
-          "body": "你现在是不是很难受？"
+          "body": "你现在是不是很难受？",
+          "hidden": true
         },
         {
           "id": "kk-200",
           "senderId": "kwon-oryul",
           "time": "2026-01-13 21:20",
-          "body": "至少告诉我你现在在哪好不好"
+          "body": "至少告诉我你现在在哪好不好",
+          "hidden": true
         }
       ]
     },
@@ -1519,169 +1557,197 @@
           "kind": "call",
           "meta": {
             "callType": "missed"
-          }
+          },
+          "hidden": true
         },
         {
           "id": "kk-237",
           "senderId": "kim-yul",
           "time": "2026-01-13 18:17",
-          "body": "你去哪了？"
+          "body": "你去哪了？",
+          "hidden": true
         },
         {
           "id": "kk-238",
           "senderId": "kim-yul",
           "time": "2026-01-13 18:17",
-          "body": "我在便利店里面没找到你。"
+          "body": "我在便利店里面没找到你。",
+          "hidden": true
         },
         {
           "id": "kk-239",
           "senderId": "kim-yul",
           "time": "2026-01-13 18:18",
-          "body": "你先接电话行不行。"
+          "body": "你先接电话行不行。",
+          "hidden": true
         },
         {
           "id": "kk-240",
           "senderId": "kim-yul",
           "time": "2026-01-13 18:19",
-          "body": "我知道你现在很乱。"
+          "body": "我知道你现在很乱。",
+          "hidden": true
         },
         {
           "id": "kk-241",
           "senderId": "kim-yul",
           "time": "2026-01-13 18:20",
-          "body": "我不该在今天跟你说那些话。"
+          "body": "我不该在今天跟你说那些话。",
+          "hidden": true
         },
         {
           "id": "kk-242",
           "senderId": "kim-yul",
           "time": "2026-01-13 18:20",
-          "body": "对不起。"
+          "body": "对不起。",
+          "hidden": true
         },
         {
           "id": "kk-243",
           "senderId": "kim-yul",
           "time": "2026-01-13 18:21",
-          "body": "我不是想逼你做决定。"
+          "body": "我不是想逼你做决定。",
+          "hidden": true
         },
         {
           "id": "kk-244",
           "senderId": "kim-yul",
           "time": "2026-01-13 18:22",
-          "body": "你不用现在回答我。"
+          "body": "你不用现在回答我。",
+          "hidden": true
         },
         {
           "id": "kk-245",
           "senderId": "kim-yul",
           "time": "2026-01-13 18:23",
-          "body": "我只是……不想一直瞒着你。"
+          "body": "我只是……不想一直瞒着你。",
+          "hidden": true
         },
         {
           "id": "kk-246",
           "senderId": "kim-yul",
           "time": "2026-01-13 18:25",
-          "body": "你喜欢权五律的时候，我一直觉得只要你们好好的就行。"
+          "body": "你喜欢权五律的时候，我一直觉得只要你们好好的就行。",
+          "hidden": true
         },
         {
           "id": "kk-247",
           "senderId": "kim-yul",
           "time": "2026-01-13 18:27",
-          "body": "可是今天听你说你要跟他分手，我突然觉得，如果我还是不说，以后可能真的没有机会了。"
+          "body": "可是今天听你说你要跟他分手，我突然觉得，如果我还是不说，以后可能真的没有机会了。",
+          "hidden": true
         },
         {
           "id": "kk-248",
           "senderId": "kim-yul",
           "time": "2026-01-13 18:28",
-          "body": "我没想到事情会变成这样。"
+          "body": "我没想到事情会变成这样。",
+          "hidden": true
         },
         {
           "id": "kk-249",
           "senderId": "kim-yul",
           "time": "2026-01-13 18:30",
-          "body": "你先告诉我你安全，好不好？"
+          "body": "你先告诉我你安全，好不好？",
+          "hidden": true
         },
         {
           "id": "kk-250",
           "senderId": "kim-yul",
           "time": "2026-01-13 20:50",
-          "body": "我不该把我喜欢你的事也放在今天说"
+          "body": "我不该把我喜欢你的事也放在今天说",
+          "hidden": true
         },
         {
           "id": "kk-251",
           "senderId": "kim-yul",
           "time": "2026-01-13 20:51",
-          "body": "我知道你现在连五律的事都不知道该怎么办"
+          "body": "我知道你现在连五律的事都不知道该怎么办",
+          "hidden": true
         },
         {
           "id": "kk-252",
           "senderId": "kim-yul",
           "time": "2026-01-13 20:52",
-          "body": "我还把自己的事情塞给你"
+          "body": "我还把自己的事情塞给你",
+          "hidden": true
         },
         {
           "id": "kk-253",
           "senderId": "kim-yul",
           "time": "2026-01-13 20:52",
-          "body": "对不起"
+          "body": "对不起",
+          "hidden": true
         },
         {
           "id": "kk-254",
           "senderId": "kim-yul",
           "time": "2026-01-13 20:53",
-          "body": "你不用考虑我"
+          "body": "你不用考虑我",
+          "hidden": true
         },
         {
           "id": "kk-255",
           "senderId": "kim-yul",
           "time": "2026-01-13 20:53",
-          "body": "也不用觉得欠我什么"
+          "body": "也不用觉得欠我什么",
+          "hidden": true
         },
         {
           "id": "kk-256",
           "senderId": "kim-yul",
           "time": "2026-01-13 20:55",
-          "body": "你今天跑掉，我第一反应是担心你"
+          "body": "你今天跑掉，我第一反应是担心你",
+          "hidden": true
         },
         {
           "id": "kk-257",
           "senderId": "kim-yul",
           "time": "2026-01-13 20:56",
-          "body": "后来才发现，我甚至不知道你平时难受的时候会去哪里"
+          "body": "后来才发现，我甚至不知道你平时难受的时候会去哪里",
+          "hidden": true
         },
         {
           "id": "kk-258",
           "senderId": "kim-yul",
           "time": "2026-01-13 20:58",
-          "body": "我们认识这么多年了"
+          "body": "我们认识这么多年了",
+          "hidden": true
         },
         {
           "id": "kk-259",
           "senderId": "kim-yul",
           "time": "2026-01-13 20:59",
-          "body": "我好像一直觉得，只要你需要我，我就在就够了"
+          "body": "我好像一直觉得，只要你需要我，我就在就够了",
+          "hidden": true
         },
         {
           "id": "kk-260",
           "senderId": "kim-yul",
           "time": "2026-01-13 21:01",
-          "body": "但我现在才发现，我根本不知道你到底过得怎么样"
+          "body": "但我现在才发现，我根本不知道你到底过得怎么样",
+          "hidden": true
         },
         {
           "id": "kk-261",
           "senderId": "kim-yul",
           "time": "2026-01-13 21:03",
-          "body": "我不会逼你跟我在一起"
+          "body": "我不会逼你跟我在一起",
+          "hidden": true
         },
         {
           "id": "kk-262",
           "senderId": "kim-yul",
           "time": "2026-01-13 21:04",
-          "body": "我也不会因为你选择五律，就怪你"
+          "body": "我也不会因为你选择五律，就怪你",
+          "hidden": true
         },
         {
           "id": "kk-263",
           "senderId": "kim-yul",
           "time": "2026-01-13 21:06",
-          "body": "我只希望你不要因为今天发生的事觉得自己是个很差劲的人"
+          "body": "我只希望你不要因为今天发生的事觉得自己是个很差劲的人",
+          "hidden": true
         }
       ]
     },
@@ -1846,145 +1912,169 @@
           "kind": "call",
           "meta": {
             "callType": "missed"
-          }
+          },
+          "hidden": true
         },
         {
           "id": "kk-289",
           "senderId": "jung-woojin",
           "time": "2026-01-13 18:29",
-          "body": "姐姐你在哪？"
+          "body": "姐姐你在哪？",
+          "hidden": true
         },
         {
           "id": "kk-290",
           "senderId": "jung-woojin",
           "time": "2026-01-13 18:29",
-          "body": "接一下电话吧"
+          "body": "接一下电话吧",
+          "hidden": true
         },
         {
           "id": "kk-291",
           "senderId": "jung-woojin",
           "time": "2026-01-13 18:30",
-          "body": "五律哥现在很难受"
+          "body": "五律哥现在很难受",
+          "hidden": true
         },
         {
           "id": "kk-292",
           "senderId": "jung-woojin",
           "time": "2026-01-13 18:31",
-          "body": "我不是要姐姐担心五律哥"
+          "body": "我不是要姐姐担心五律哥",
+          "hidden": true
         },
         {
           "id": "kk-293",
           "senderId": "jung-woojin",
           "time": "2026-01-13 18:32",
-          "body": "只是五律哥还有我们需要知道姐姐现在是安全的"
+          "body": "只是五律哥还有我们需要知道姐姐现在是安全的",
+          "hidden": true
         },
         {
           "id": "kk-294",
           "senderId": "jung-woojin",
           "time": "2026-01-13 18:33",
-          "body": "拜托了"
+          "body": "拜托了",
+          "hidden": true
         },
         {
           "id": "kk-295",
           "senderId": "jung-woojin",
           "time": "2026-01-13 21:02",
-          "body": "你怎么还没接电话"
+          "body": "你怎么还没接电话",
+          "hidden": true
         },
         {
           "id": "kk-296",
           "senderId": "jung-woojin",
           "time": "2026-01-13 21:03",
-          "body": "他连话都说不出来"
+          "body": "他连话都说不出来",
+          "hidden": true
         },
         {
           "id": "kk-297",
           "senderId": "jung-woojin",
           "time": "2026-01-13 21:04",
-          "body": "一直在给你打电话"
+          "body": "一直在给你打电话",
+          "hidden": true
         },
         {
           "id": "kk-298",
           "senderId": "jung-woojin",
           "time": "2026-01-13 21:05",
-          "body": "我从来没有没见过他这样"
+          "body": "我从来没有没见过他这样",
+          "hidden": true
         },
         {
           "id": "kk-299",
           "senderId": "jung-woojin",
           "time": "2026-01-13 21:07",
-          "body": "我不知道你们之间到底发生了什么"
+          "body": "我不知道你们之间到底发生了什么",
+          "hidden": true
         },
         {
           "id": "kk-300",
           "senderId": "jung-woojin",
           "time": "2026-01-13 21:08",
-          "body": "你们的事我本来不应该插嘴"
+          "body": "你们的事我本来不应该插嘴",
+          "hidden": true
         },
         {
           "id": "kk-301",
           "senderId": "jung-woojin",
           "time": "2026-01-13 21:10",
-          "body": "但是今天五律哥打算和你求婚"
+          "body": "但是今天五律哥打算和你求婚",
+          "hidden": true
         },
         {
           "id": "kk-302",
           "senderId": "jung-woojin",
           "time": "2026-01-13 21:11",
-          "body": "我以前真的很喜欢看你们在一起"
+          "body": "我以前真的很喜欢看你们在一起",
+          "hidden": true
         },
         {
           "id": "kk-303",
           "senderId": "jung-woojin",
           "time": "2026-01-13 21:12",
-          "body": "哥跟你在一起的时候跟平时不一样"
+          "body": "哥跟你在一起的时候跟平时不一样",
+          "hidden": true
         },
         {
           "id": "kk-304",
           "senderId": "jung-woojin",
           "time": "2026-01-13 21:13",
-          "body": "我以为他终于可以一直这么开心了"
+          "body": "我以为他终于可以一直这么开心了",
+          "hidden": true
         },
         {
           "id": "kk-305",
           "senderId": "jung-woojin",
           "time": "2026-01-13 21:15",
-          "body": "他刚刚还问我"
+          "body": "他刚刚还问我",
+          "hidden": true
         },
         {
           "id": "kk-306",
           "senderId": "jung-woojin",
           "time": "2026-01-13 21:15",
-          "body": "是不是他哪里做得不好"
+          "body": "是不是他哪里做得不好",
+          "hidden": true
         },
         {
           "id": "kk-307",
           "senderId": "jung-woojin",
           "time": "2026-01-13 21:16",
-          "body": "你知道吗"
+          "body": "你知道吗",
+          "hidden": true
         },
         {
           "id": "kk-308",
           "senderId": "jung-woojin",
           "time": "2026-01-13 21:17",
-          "body": "他到现在都在想是不是自己的问题"
+          "body": "他到现在都在想是不是自己的问题",
+          "hidden": true
         },
         {
           "id": "kk-309",
           "senderId": "jung-woojin",
           "time": "2026-01-13 21:19",
-          "body": "我不会替哥要求你留下"
+          "body": "我不会替哥要求你留下",
+          "hidden": true
         },
         {
           "id": "kk-310",
           "senderId": "jung-woojin",
           "time": "2026-01-13 21:20",
-          "body": "你接一下电话告诉他你现在是安全的"
+          "body": "你接一下电话告诉他你现在是安全的",
+          "hidden": true
         },
         {
           "id": "kk-311",
           "senderId": "jung-woojin",
           "time": "2026-01-13 21:22",
-          "body": "之后最好一直别出现"
+          "body": "之后最好一直别出现",
+          "hidden": true
         }
       ]
     },
@@ -2077,85 +2167,99 @@
           "kind": "call",
           "meta": {
             "callType": "missed"
-          }
+          },
+          "hidden": true
         },
         {
           "id": "kk-325",
           "senderId": "im-louie",
           "time": "2026-01-13 18:36",
-          "body": "姐姐你在哪？"
+          "body": "姐姐你在哪？",
+          "hidden": true
         },
         {
           "id": "kk-326",
           "senderId": "im-louie",
           "time": "2026-01-13 18:37",
-          "body": "我现在还不太清楚发生了什么"
+          "body": "我现在还不太清楚发生了什么",
+          "hidden": true
         },
         {
           "id": "kk-327",
           "senderId": "im-louie",
           "time": "2026-01-13 18:38",
-          "body": "五律哥在哭"
+          "body": "五律哥在哭",
+          "hidden": true
         },
         {
           "id": "kk-328",
           "senderId": "im-louie",
           "time": "2026-01-13 18:39",
-          "body": "我第一次见哥哥哭"
+          "body": "我第一次见哥哥哭",
+          "hidden": true
         },
         {
           "id": "kk-329",
           "senderId": "im-louie",
           "time": "2026-01-13 18:40",
-          "body": "我不是要责怪姐姐"
+          "body": "我不是要责怪姐姐",
+          "hidden": true
         },
         {
           "id": "kk-330",
           "senderId": "im-louie",
           "time": "2026-01-13 18:41",
-          "body": "就是…不回复也没关系，但拜托告诉我你在哪里"
+          "body": "就是…不回复也没关系，但拜托告诉我你在哪里",
+          "hidden": true
         },
         {
           "id": "kk-331",
           "senderId": "im-louie",
           "time": "2026-01-13 18:42",
-          "body": "我不觉得姐姐是坏人"
+          "body": "我不觉得姐姐是坏人",
+          "hidden": true
         },
         {
           "id": "kk-332",
           "senderId": "im-louie",
           "time": "2026-01-13 21:08",
-          "body": "姐姐，我现在在哥哥旁边"
+          "body": "姐姐，我现在在哥哥旁边",
+          "hidden": true
         },
         {
           "id": "kk-333",
           "senderId": "im-louie",
           "time": "2026-01-13 21:09",
-          "body": "哥哥一直在给你打电话"
+          "body": "哥哥一直在给你打电话",
+          "hidden": true
         },
         {
           "id": "kk-334",
           "senderId": "im-louie",
           "time": "2026-01-13 21:11",
-          "body": "就算姐姐已经不爱哥哥了，也不是姐姐的错"
+          "body": "就算姐姐已经不爱哥哥了，也不是姐姐的错",
+          "hidden": true
         },
         {
           "id": "kk-335",
           "senderId": "im-louie",
           "time": "2026-01-13 21:12",
-          "body": "但我希望哥哥不要觉得自己是不值得被爱的人"
+          "body": "但我希望哥哥不要觉得自己是不值得被爱的人",
+          "hidden": true
         },
         {
           "id": "kk-336",
           "senderId": "im-louie",
           "time": "2026-01-13 21:13",
-          "body": "姐姐也是"
+          "body": "姐姐也是",
+          "hidden": true
         },
         {
           "id": "kk-337",
           "senderId": "im-louie",
           "time": "2026-01-13 21:14",
-          "body": "只是希望姐姐没事"
+          "body": "只是希望姐姐没事",
+          "hidden": true
         }
       ]
     }
@@ -2389,90 +2493,6 @@
     ],
     "phone": [
       {
-        "id": "call-kwon-2147",
-        "kind": "call",
-        "title": "权五律",
-        "sender": "权五律",
-        "time": "2026-01-13 21:47",
-        "body": "未接",
-        "meta": {
-          "number": "010-2841-7736",
-          "status": "未接"
-        }
-      },
-      {
-        "id": "call-kim-2152",
-        "kind": "call",
-        "title": "金栗",
-        "sender": "金栗",
-        "time": "2026-01-13 21:52",
-        "body": "未接",
-        "meta": {
-          "number": "010-3392-5184",
-          "status": "未接"
-        }
-      },
-      {
-        "id": "call-jung-2157",
-        "kind": "call",
-        "title": "郑宇津",
-        "sender": "郑宇津",
-        "time": "2026-01-13 21:57",
-        "body": "未接",
-        "meta": {
-          "number": "010-7745-2290",
-          "status": "未接"
-        }
-      },
-      {
-        "id": "call-im-2202",
-        "kind": "call",
-        "title": "林路易",
-        "sender": "林路易",
-        "time": "2026-01-13 22:02",
-        "body": "未接",
-        "meta": {
-          "number": "010-6018-4472",
-          "status": "未接"
-        }
-      },
-      {
-        "id": "call-kwon-2112",
-        "kind": "call",
-        "title": "权五律",
-        "sender": "权五律",
-        "time": "2026-01-13 21:12",
-        "body": "未接",
-        "meta": {
-          "number": "010-2841-7736",
-          "status": "未接"
-        }
-      },
-      {
-        "id": "call-kim-2032",
-        "kind": "call",
-        "title": "金栗",
-        "sender": "金栗",
-        "time": "2026-01-13 20:32",
-        "body": "未接",
-        "meta": {
-          "number": "010-3392-5184",
-          "status": "未接"
-        }
-      },
-      {
-        "id": "call-kwon-1836",
-        "kind": "call",
-        "title": "权五律",
-        "sender": "权五律",
-        "time": "2026-01-13 18:36",
-        "body": "未接",
-        "meta": {
-          "number": "010-2841-7736",
-          "status": "未接"
-        }
-      },
-      {
         "id": "call-im-1835",
         "kind": "call",
         "title": "林路易",
@@ -2482,7 +2502,8 @@
         "meta": {
           "number": "010-6018-4472",
           "status": "未接"
-        }
+        },
+        "hidden": true
       },
       {
         "id": "call-jung-1828",
@@ -2494,7 +2515,8 @@
         "meta": {
           "number": "010-7745-2290",
           "status": "未接"
-        }
+        },
+        "hidden": true
       },
       {
         "id": "call-kwon-1822",
@@ -2506,7 +2528,8 @@
         "meta": {
           "number": "010-2841-7736",
           "status": "未接"
-        }
+        },
+        "hidden": true
       },
       {
         "id": "call-kim-1816",
@@ -2518,7 +2541,8 @@
         "meta": {
           "number": "010-3392-5184",
           "status": "未接"
-        }
+        },
+        "hidden": true
       },
       {
         "id": "call-kwon-1758",
@@ -2530,7 +2554,8 @@
         "meta": {
           "number": "010-2841-7736",
           "status": "未接"
-        }
+        },
+        "hidden": false
       },
       {
         "id": "call-kim-1440",
@@ -2542,7 +2567,8 @@
         "meta": {
           "number": "010-3392-5184",
           "status": "已接听"
-        }
+        },
+        "hidden": false
       },
       {
         "id": "call-kwon-1355",
@@ -2554,7 +2580,8 @@
         "meta": {
           "number": "010-2841-7736",
           "status": "已接听"
-        }
+        },
+        "hidden": false
       },
       {
         "id": "call-kwon-2203",
@@ -2566,7 +2593,8 @@
         "meta": {
           "number": "010-2841-7736",
           "status": "已接听"
-        }
+        },
+        "hidden": false
       },
       {
         "id": "call-kwon-1855",
@@ -2578,7 +2606,8 @@
         "meta": {
           "number": "010-2841-7736",
           "status": "已拨出"
-        }
+        },
+        "hidden": false
       },
       {
         "id": "call-kwon-2240",
@@ -2590,7 +2619,8 @@
         "meta": {
           "number": "010-2841-7736",
           "status": "已接听"
-        }
+        },
+        "hidden": false
       },
       {
         "id": "call-kwon-2245",
@@ -2602,7 +2632,8 @@
         "meta": {
           "number": "010-2841-7736",
           "status": "已接听"
-        }
+        },
+        "hidden": false
       },
       {
         "id": "call-kwon-2240b",
@@ -2614,7 +2645,8 @@
         "meta": {
           "number": "010-2841-7736",
           "status": "已接听"
-        }
+        },
+        "hidden": false
       },
       {
         "id": "call-kwon-2030",
@@ -2626,7 +2658,8 @@
         "meta": {
           "number": "010-2841-7736",
           "status": "已拨出"
-        }
+        },
+        "hidden": false
       },
       {
         "id": "call-kim-2120",
@@ -2638,7 +2671,8 @@
         "meta": {
           "number": "010-3392-5184",
           "status": "已接听"
-        }
+        },
+        "hidden": false
       },
       {
         "id": "call-kwon-2250",
@@ -2650,7 +2684,8 @@
         "meta": {
           "number": "010-2841-7736",
           "status": "已接听"
-        }
+        },
+        "hidden": false
       },
       {
         "id": "call-kim-0030",
@@ -2662,7 +2697,8 @@
         "meta": {
           "number": "010-3392-5184",
           "status": "已拨出"
-        }
+        },
+        "hidden": false
       },
       {
         "id": "call-kwon-2105",
@@ -2674,7 +2710,8 @@
         "meta": {
           "number": "010-2841-7736",
           "status": "已接听"
-        }
+        },
+        "hidden": false
       },
       {
         "id": "call-kwon-1941",
@@ -2686,7 +2723,8 @@
         "meta": {
           "number": "010-2841-7736",
           "status": "已接听"
-        }
+        },
+        "hidden": false
       },
       {
         "id": "call-kwon-2320",
@@ -2698,7 +2736,8 @@
         "meta": {
           "number": "010-2841-7736",
           "status": "已接听"
-        }
+        },
+        "hidden": false
       },
       {
         "id": "call-jung-2110",
@@ -2710,7 +2749,8 @@
         "meta": {
           "number": "010-7745-2290",
           "status": "已接听"
-        }
+        },
+        "hidden": false
       },
       {
         "id": "call-kim-2030",
@@ -2722,7 +2762,8 @@
         "meta": {
           "number": "010-3392-5184",
           "status": "已拨出"
-        }
+        },
+        "hidden": false
       },
       {
         "id": "call-kim-1950",
@@ -2734,7 +2775,8 @@
         "meta": {
           "number": "010-3392-5184",
           "status": "已接听"
-        }
+        },
+        "hidden": false
       },
       {
         "id": "call-kim-1831",
@@ -2746,7 +2788,8 @@
         "meta": {
           "number": "010-3392-5184",
           "status": "已接听"
-        }
+        },
+        "hidden": false
       },
       {
         "id": "call-kim-2125",
@@ -2758,7 +2801,8 @@
         "meta": {
           "number": "010-3392-5184",
           "status": "已拨出"
-        }
+        },
+        "hidden": false
       },
       {
         "id": "call-jung-2115",
@@ -2770,7 +2814,8 @@
         "meta": {
           "number": "010-7745-2290",
           "status": "已接听"
-        }
+        },
+        "hidden": false
       },
       {
         "id": "call-kim-2215",
@@ -2782,7 +2827,8 @@
         "meta": {
           "number": "010-3392-5184",
           "status": "已接听"
-        }
+        },
+        "hidden": false
       },
       {
         "id": "call-kim-2130",
@@ -2794,7 +2840,8 @@
         "meta": {
           "number": "010-3392-5184",
           "status": "已拨出"
-        }
+        },
+        "hidden": false
       },
       {
         "id": "call-im-1950",
@@ -2806,7 +2853,8 @@
         "meta": {
           "number": "010-6018-4472",
           "status": "已接听"
-        }
+        },
+        "hidden": false
       }
     ]
   },
@@ -2816,254 +2864,4503 @@
       "id": "ev-start",
       "type": "start",
       "label": "开始",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [],
       "next": [
-        "ev-d1"
-      ]
+        "b001d"
+      ],
+      "once": true
     },
     {
-      "id": "ev-d1",
+      "id": "b001d",
       "type": "delay",
-      "label": "等待 20 秒",
-      "delayMs": 45000,
+      "label": "等待 20s",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [],
       "next": [
-        "ev-c1"
-      ]
+        "b002c"
+      ],
+      "once": true,
+      "delayMs": 20000
     },
     {
-      "id": "ev-c1",
-      "type": "action",
-      "label": "权五律来电",
-      "actions": [
-        {
-          "type": "call",
-          "key": "call-kwon-2147",
-          "value": "权五律"
-        }
-      ]
-    },
-    {
-      "id": "ev-decl-kwon",
-      "type": "event",
-      "label": "权五律被拒接",
-      "event": "callDeclined",
-      "target": "call-kwon-2147",
-      "next": [
-        "ev-d2"
-      ]
-    },
-    {
-      "id": "ev-end-kwon",
-      "type": "event",
-      "label": "权五律挂断",
-      "event": "callEnded",
-      "target": "call-kwon-2147",
-      "next": [
-        "ev-d2"
-      ]
-    },
-    {
-      "id": "ev-d2",
-      "type": "delay",
-      "label": "等待 35 秒",
-      "delayMs": 75000,
-      "next": [
-        "ev-c2"
-      ]
-    },
-    {
-      "id": "ev-c2",
+      "id": "b002c",
       "type": "action",
       "label": "金栗来电",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
       "actions": [
         {
           "type": "call",
-          "key": "call-kim-2152",
+          "key": "call-kim-1816",
           "value": "金栗"
         }
-      ]
+      ],
+      "next": [],
+      "once": true
     },
     {
-      "id": "ev-decl-kim",
+      "id": "b002u",
+      "type": "action",
+      "label": "记下这通未接来电",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [
+        {
+          "type": "unlock",
+          "key": "kk-236",
+          "value": ""
+        },
+        {
+          "type": "unlock",
+          "key": "call-kim-1816",
+          "value": ""
+        }
+      ],
+      "next": [
+        "b003t"
+      ],
+      "once": true
+    },
+    {
+      "id": "b002decl",
       "type": "event",
       "label": "金栗被拒接",
       "event": "callDeclined",
-      "target": "call-kim-2152",
+      "target": "call-kim-1816",
+      "conditions": [],
+      "logic": "and",
+      "actions": [],
       "next": [
-        "ev-d3"
-      ]
+        "b002u"
+      ],
+      "once": true
     },
     {
-      "id": "ev-end-kim",
+      "id": "b002end",
       "type": "event",
       "label": "金栗挂断",
       "event": "callEnded",
-      "target": "call-kim-2152",
+      "target": "call-kim-1816",
+      "conditions": [],
+      "logic": "and",
+      "actions": [],
       "next": [
-        "ev-d3"
-      ]
+        "b002u"
+      ],
+      "once": true
     },
     {
-      "id": "ev-d3",
-      "type": "delay",
-      "label": "等待 45 秒",
-      "delayMs": 90000,
-      "next": [
-        "ev-c3"
-      ]
-    },
-    {
-      "id": "ev-c3",
+      "id": "b003t",
       "type": "action",
-      "label": "郑宇津来电",
+      "label": "时间来到 18:17",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [
+        {
+          "type": "time",
+          "key": "",
+          "value": "18:17"
+        }
+      ],
+      "next": [
+        "b004d"
+      ],
+      "once": true
+    },
+    {
+      "id": "b004d",
+      "type": "delay",
+      "label": "等待 6s",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [],
+      "next": [
+        "b005u"
+      ],
+      "once": true,
+      "delayMs": 5500
+    },
+    {
+      "id": "b005u",
+      "type": "action",
+      "label": "金栗 18:17",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [
+        {
+          "type": "unlock",
+          "key": "kk-237",
+          "value": ""
+        },
+        {
+          "type": "unlock",
+          "key": "kk-238",
+          "value": ""
+        },
+        {
+          "type": "notification",
+          "key": "",
+          "value": "金栗：我在便利店里面没找到你。"
+        }
+      ],
+      "next": [
+        "b006d"
+      ],
+      "once": true
+    },
+    {
+      "id": "b006d",
+      "type": "delay",
+      "label": "等待 6s",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [],
+      "next": [
+        "b007u"
+      ],
+      "once": true,
+      "delayMs": 5500
+    },
+    {
+      "id": "b007u",
+      "type": "action",
+      "label": "金栗 18:18",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [
+        {
+          "type": "unlock",
+          "key": "kk-239",
+          "value": ""
+        },
+        {
+          "type": "notification",
+          "key": "",
+          "value": "金栗：你先接电话行不行。"
+        }
+      ],
+      "next": [
+        "b008d"
+      ],
+      "once": true
+    },
+    {
+      "id": "b008d",
+      "type": "delay",
+      "label": "等待 6s",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [],
+      "next": [
+        "b009u"
+      ],
+      "once": true,
+      "delayMs": 5500
+    },
+    {
+      "id": "b009u",
+      "type": "action",
+      "label": "金栗 18:19",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [
+        {
+          "type": "unlock",
+          "key": "kk-240",
+          "value": ""
+        },
+        {
+          "type": "notification",
+          "key": "",
+          "value": "金栗：我知道你现在很乱。"
+        }
+      ],
+      "next": [
+        "b010d"
+      ],
+      "once": true
+    },
+    {
+      "id": "b010d",
+      "type": "delay",
+      "label": "等待 6s",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [],
+      "next": [
+        "b011u"
+      ],
+      "once": true,
+      "delayMs": 5500
+    },
+    {
+      "id": "b011u",
+      "type": "action",
+      "label": "金栗 18:20",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [
+        {
+          "type": "unlock",
+          "key": "kk-241",
+          "value": ""
+        },
+        {
+          "type": "unlock",
+          "key": "kk-242",
+          "value": ""
+        },
+        {
+          "type": "notification",
+          "key": "",
+          "value": "金栗：对不起。"
+        }
+      ],
+      "next": [
+        "b012d"
+      ],
+      "once": true
+    },
+    {
+      "id": "b012d",
+      "type": "delay",
+      "label": "等待 6s",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [],
+      "next": [
+        "b013u"
+      ],
+      "once": true,
+      "delayMs": 5500
+    },
+    {
+      "id": "b013u",
+      "type": "action",
+      "label": "金栗 18:21",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [
+        {
+          "type": "unlock",
+          "key": "kk-243",
+          "value": ""
+        },
+        {
+          "type": "notification",
+          "key": "",
+          "value": "金栗：我不是想逼你做决定。"
+        }
+      ],
+      "next": [
+        "b014d"
+      ],
+      "once": true
+    },
+    {
+      "id": "b014d",
+      "type": "delay",
+      "label": "等待 6s",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [],
+      "next": [
+        "b015t"
+      ],
+      "once": true,
+      "delayMs": 5500
+    },
+    {
+      "id": "b015t",
+      "type": "action",
+      "label": "时间来到 18:22",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [
+        {
+          "type": "time",
+          "key": "",
+          "value": "18:22"
+        }
+      ],
+      "next": [
+        "b016c"
+      ],
+      "once": true
+    },
+    {
+      "id": "b016c",
+      "type": "action",
+      "label": "权五律来电",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
       "actions": [
         {
           "type": "call",
-          "key": "call-jung-2157",
-          "value": "郑宇津"
+          "key": "call-kwon-1822",
+          "value": "权五律"
         }
-      ]
+      ],
+      "next": [],
+      "once": true
     },
     {
-      "id": "ev-decl-jung",
+      "id": "b016u",
+      "type": "action",
+      "label": "记下这通未接来电",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [
+        {
+          "type": "unlock",
+          "key": "kk-163",
+          "value": ""
+        },
+        {
+          "type": "unlock",
+          "key": "call-kwon-1822",
+          "value": ""
+        }
+      ],
+      "next": [
+        "b017t"
+      ],
+      "once": true
+    },
+    {
+      "id": "b016decl",
+      "type": "event",
+      "label": "权五律被拒接",
+      "event": "callDeclined",
+      "target": "call-kwon-1822",
+      "conditions": [],
+      "logic": "and",
+      "actions": [],
+      "next": [
+        "b016u"
+      ],
+      "once": true
+    },
+    {
+      "id": "b016end",
+      "type": "event",
+      "label": "权五律挂断",
+      "event": "callEnded",
+      "target": "call-kwon-1822",
+      "conditions": [],
+      "logic": "and",
+      "actions": [],
+      "next": [
+        "b016u"
+      ],
+      "once": true
+    },
+    {
+      "id": "b017t",
+      "type": "action",
+      "label": "时间来到 18:22",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [
+        {
+          "type": "time",
+          "key": "",
+          "value": "18:22"
+        }
+      ],
+      "next": [
+        "b018d"
+      ],
+      "once": true
+    },
+    {
+      "id": "b018d",
+      "type": "delay",
+      "label": "等待 2s",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [],
+      "next": [
+        "b019u"
+      ],
+      "once": true,
+      "delayMs": 2000
+    },
+    {
+      "id": "b019u",
+      "type": "action",
+      "label": "金栗 18:22",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [
+        {
+          "type": "unlock",
+          "key": "kk-244",
+          "value": ""
+        },
+        {
+          "type": "notification",
+          "key": "",
+          "value": "金栗：你不用现在回答我。"
+        }
+      ],
+      "next": [
+        "b020d"
+      ],
+      "once": true
+    },
+    {
+      "id": "b020d",
+      "type": "delay",
+      "label": "等待 6s",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [],
+      "next": [
+        "b021u"
+      ],
+      "once": true,
+      "delayMs": 5500
+    },
+    {
+      "id": "b021u",
+      "type": "action",
+      "label": "权五律 18:23",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [
+        {
+          "type": "unlock",
+          "key": "kk-164",
+          "value": ""
+        },
+        {
+          "type": "notification",
+          "key": "",
+          "value": "权五律：你在哪？"
+        }
+      ],
+      "next": [
+        "b022d"
+      ],
+      "once": true
+    },
+    {
+      "id": "b022d",
+      "type": "delay",
+      "label": "等待 2s",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [],
+      "next": [
+        "b023u"
+      ],
+      "once": true,
+      "delayMs": 2000
+    },
+    {
+      "id": "b023u",
+      "type": "action",
+      "label": "金栗 18:23",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [
+        {
+          "type": "unlock",
+          "key": "kk-245",
+          "value": ""
+        },
+        {
+          "type": "notification",
+          "key": "",
+          "value": "金栗：我只是……不想一直瞒着你。"
+        }
+      ],
+      "next": [
+        "b024d"
+      ],
+      "once": true
+    },
+    {
+      "id": "b024d",
+      "type": "delay",
+      "label": "等待 6s",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [],
+      "next": [
+        "b025u"
+      ],
+      "once": true,
+      "delayMs": 5500
+    },
+    {
+      "id": "b025u",
+      "type": "action",
+      "label": "权五律 18:24",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [
+        {
+          "type": "unlock",
+          "key": "kk-165",
+          "value": ""
+        },
+        {
+          "type": "unlock",
+          "key": "kk-166",
+          "value": ""
+        },
+        {
+          "type": "notification",
+          "key": "",
+          "value": "权五律：求你了"
+        }
+      ],
+      "next": [
+        "b026d"
+      ],
+      "once": true
+    },
+    {
+      "id": "b026d",
+      "type": "delay",
+      "label": "等待 6s",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [],
+      "next": [
+        "b027u"
+      ],
+      "once": true,
+      "delayMs": 5500
+    },
+    {
+      "id": "b027u",
+      "type": "action",
+      "label": "权五律 18:25",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [
+        {
+          "type": "unlock",
+          "key": "kk-167",
+          "value": ""
+        },
+        {
+          "type": "unlock",
+          "key": "kk-168",
+          "value": ""
+        },
+        {
+          "type": "notification",
+          "key": "",
+          "value": "权五律：你先告诉我你在哪里"
+        }
+      ],
+      "next": [
+        "b028d"
+      ],
+      "once": true
+    },
+    {
+      "id": "b028d",
+      "type": "delay",
+      "label": "等待 2s",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [],
+      "next": [
+        "b029u"
+      ],
+      "once": true,
+      "delayMs": 2000
+    },
+    {
+      "id": "b029u",
+      "type": "action",
+      "label": "金栗 18:25",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [
+        {
+          "type": "unlock",
+          "key": "kk-246",
+          "value": ""
+        },
+        {
+          "type": "notification",
+          "key": "",
+          "value": "金栗：你喜欢权五律的时候，我一直觉得只要你们好好的就行。"
+        }
+      ],
+      "next": [
+        "b030d"
+      ],
+      "once": true
+    },
+    {
+      "id": "b030d",
+      "type": "delay",
+      "label": "等待 6s",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [],
+      "next": [
+        "b031u"
+      ],
+      "once": true,
+      "delayMs": 5500
+    },
+    {
+      "id": "b031u",
+      "type": "action",
+      "label": "权五律 18:26",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [
+        {
+          "type": "unlock",
+          "key": "kk-169",
+          "value": ""
+        },
+        {
+          "type": "notification",
+          "key": "",
+          "value": "权五律：我去接你好不好？"
+        }
+      ],
+      "next": [
+        "b032d"
+      ],
+      "once": true
+    },
+    {
+      "id": "b032d",
+      "type": "delay",
+      "label": "等待 6s",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [],
+      "next": [
+        "b033u"
+      ],
+      "once": true,
+      "delayMs": 5500
+    },
+    {
+      "id": "b033u",
+      "type": "action",
+      "label": "权五律 18:27",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [
+        {
+          "type": "unlock",
+          "key": "kk-170",
+          "value": ""
+        },
+        {
+          "type": "notification",
+          "key": "",
+          "value": "权五律：你是不是不想见我？"
+        }
+      ],
+      "next": [
+        "b034d"
+      ],
+      "once": true
+    },
+    {
+      "id": "b034d",
+      "type": "delay",
+      "label": "等待 2s",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [],
+      "next": [
+        "b035u"
+      ],
+      "once": true,
+      "delayMs": 2000
+    },
+    {
+      "id": "b035u",
+      "type": "action",
+      "label": "金栗 18:27",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [
+        {
+          "type": "unlock",
+          "key": "kk-247",
+          "value": ""
+        },
+        {
+          "type": "notification",
+          "key": "",
+          "value": "金栗：可是今天听你说你要跟他分手，我突然觉得，如果我还是不说，以后可能真的没有机会了。"
+        }
+      ],
+      "next": [
+        "b036d"
+      ],
+      "once": true
+    },
+    {
+      "id": "b036d",
+      "type": "delay",
+      "label": "等待 6s",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [],
+      "next": [
+        "b037u"
+      ],
+      "once": true,
+      "delayMs": 5500
+    },
+    {
+      "id": "b037u",
+      "type": "action",
+      "label": "金栗 18:28",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [
+        {
+          "type": "unlock",
+          "key": "kk-248",
+          "value": ""
+        },
+        {
+          "type": "notification",
+          "key": "",
+          "value": "金栗：我没想到事情会变成这样。"
+        }
+      ],
+      "next": [
+        "b038d"
+      ],
+      "once": true
+    },
+    {
+      "id": "b038d",
+      "type": "delay",
+      "label": "等待 2s",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [],
+      "next": [
+        "b039t"
+      ],
+      "once": true,
+      "delayMs": 2000
+    },
+    {
+      "id": "b039t",
+      "type": "action",
+      "label": "时间来到 18:28",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [
+        {
+          "type": "time",
+          "key": "",
+          "value": "18:28"
+        }
+      ],
+      "next": [
+        "b040c"
+      ],
+      "once": true
+    },
+    {
+      "id": "b040c",
+      "type": "action",
+      "label": "郑宇津来电",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [
+        {
+          "type": "call",
+          "key": "call-jung-1828",
+          "value": "郑宇津"
+        }
+      ],
+      "next": [],
+      "once": true
+    },
+    {
+      "id": "b040u",
+      "type": "action",
+      "label": "记下这通未接来电",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [
+        {
+          "type": "unlock",
+          "key": "kk-288",
+          "value": ""
+        },
+        {
+          "type": "unlock",
+          "key": "call-jung-1828",
+          "value": ""
+        }
+      ],
+      "next": [
+        "b041t"
+      ],
+      "once": true
+    },
+    {
+      "id": "b040decl",
       "type": "event",
       "label": "郑宇津被拒接",
       "event": "callDeclined",
-      "target": "call-jung-2157",
+      "target": "call-jung-1828",
+      "conditions": [],
+      "logic": "and",
+      "actions": [],
       "next": [
-        "ev-d4"
-      ]
+        "b040u"
+      ],
+      "once": true
     },
     {
-      "id": "ev-end-jung",
+      "id": "b040end",
       "type": "event",
       "label": "郑宇津挂断",
       "event": "callEnded",
-      "target": "call-jung-2157",
+      "target": "call-jung-1828",
+      "conditions": [],
+      "logic": "and",
+      "actions": [],
       "next": [
-        "ev-d4"
-      ]
+        "b040u"
+      ],
+      "once": true
     },
     {
-      "id": "ev-d4",
+      "id": "b041t",
+      "type": "action",
+      "label": "时间来到 18:29",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [
+        {
+          "type": "time",
+          "key": "",
+          "value": "18:29"
+        }
+      ],
+      "next": [
+        "b042d"
+      ],
+      "once": true
+    },
+    {
+      "id": "b042d",
       "type": "delay",
-      "label": "等待 55 秒",
-      "delayMs": 105000,
+      "label": "等待 6s",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [],
       "next": [
-        "ev-c4"
-      ]
+        "b043u"
+      ],
+      "once": true,
+      "delayMs": 5500
     },
     {
-      "id": "ev-c4",
+      "id": "b043u",
+      "type": "action",
+      "label": "权五律 18:29",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [
+        {
+          "type": "unlock",
+          "key": "kk-171",
+          "value": ""
+        },
+        {
+          "type": "notification",
+          "key": "",
+          "value": "权五律：你今天本来就要跟我说分手，对吗？"
+        }
+      ],
+      "next": [
+        "b044d"
+      ],
+      "once": true
+    },
+    {
+      "id": "b044d",
+      "type": "delay",
+      "label": "等待 2s",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [],
+      "next": [
+        "b045u"
+      ],
+      "once": true,
+      "delayMs": 2000
+    },
+    {
+      "id": "b045u",
+      "type": "action",
+      "label": "郑宇津 18:29",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [
+        {
+          "type": "unlock",
+          "key": "kk-289",
+          "value": ""
+        },
+        {
+          "type": "unlock",
+          "key": "kk-290",
+          "value": ""
+        },
+        {
+          "type": "notification",
+          "key": "",
+          "value": "郑宇津：接一下电话吧"
+        }
+      ],
+      "next": [
+        "b046d"
+      ],
+      "once": true
+    },
+    {
+      "id": "b046d",
+      "type": "delay",
+      "label": "等待 6s",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [],
+      "next": [
+        "b047u"
+      ],
+      "once": true,
+      "delayMs": 5500
+    },
+    {
+      "id": "b047u",
+      "type": "action",
+      "label": "权五律 18:30",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [
+        {
+          "type": "unlock",
+          "key": "kk-172",
+          "value": ""
+        },
+        {
+          "type": "notification",
+          "key": "",
+          "value": "权五律：为什么不告诉我？"
+        }
+      ],
+      "next": [
+        "b048d"
+      ],
+      "once": true
+    },
+    {
+      "id": "b048d",
+      "type": "delay",
+      "label": "等待 2s",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [],
+      "next": [
+        "b049u"
+      ],
+      "once": true,
+      "delayMs": 2000
+    },
+    {
+      "id": "b049u",
+      "type": "action",
+      "label": "金栗 18:30",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [
+        {
+          "type": "unlock",
+          "key": "kk-249",
+          "value": ""
+        },
+        {
+          "type": "notification",
+          "key": "",
+          "value": "金栗：你先告诉我你安全，好不好？"
+        }
+      ],
+      "next": [
+        "b050d"
+      ],
+      "once": true
+    },
+    {
+      "id": "b050d",
+      "type": "delay",
+      "label": "等待 2s",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [],
+      "next": [
+        "b051u"
+      ],
+      "once": true,
+      "delayMs": 2000
+    },
+    {
+      "id": "b051u",
+      "type": "action",
+      "label": "郑宇津 18:30",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [
+        {
+          "type": "unlock",
+          "key": "kk-291",
+          "value": ""
+        },
+        {
+          "type": "notification",
+          "key": "",
+          "value": "郑宇津：五律哥现在很难受"
+        }
+      ],
+      "next": [
+        "b052d"
+      ],
+      "once": true
+    },
+    {
+      "id": "b052d",
+      "type": "delay",
+      "label": "等待 6s",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [],
+      "next": [
+        "b053u"
+      ],
+      "once": true,
+      "delayMs": 5500
+    },
+    {
+      "id": "b053u",
+      "type": "action",
+      "label": "权五律 18:31",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [
+        {
+          "type": "unlock",
+          "key": "kk-173",
+          "value": ""
+        },
+        {
+          "type": "notification",
+          "key": "",
+          "value": "权五律：是因为我今天要跟你求婚，所以你才跑了吗？"
+        }
+      ],
+      "next": [
+        "b054d"
+      ],
+      "once": true
+    },
+    {
+      "id": "b054d",
+      "type": "delay",
+      "label": "等待 2s",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [],
+      "next": [
+        "b055u"
+      ],
+      "once": true,
+      "delayMs": 2000
+    },
+    {
+      "id": "b055u",
+      "type": "action",
+      "label": "郑宇津 18:31",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [
+        {
+          "type": "unlock",
+          "key": "kk-292",
+          "value": ""
+        },
+        {
+          "type": "notification",
+          "key": "",
+          "value": "郑宇津：我不是要姐姐担心五律哥"
+        }
+      ],
+      "next": [
+        "b056d"
+      ],
+      "once": true
+    },
+    {
+      "id": "b056d",
+      "type": "delay",
+      "label": "等待 6s",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [],
+      "next": [
+        "b057u"
+      ],
+      "once": true,
+      "delayMs": 5500
+    },
+    {
+      "id": "b057u",
+      "type": "action",
+      "label": "郑宇津 18:32",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [
+        {
+          "type": "unlock",
+          "key": "kk-293",
+          "value": ""
+        },
+        {
+          "type": "notification",
+          "key": "",
+          "value": "郑宇津：只是五律哥还有我们需要知道姐姐现在是安全的"
+        }
+      ],
+      "next": [
+        "b058d"
+      ],
+      "once": true
+    },
+    {
+      "id": "b058d",
+      "type": "delay",
+      "label": "等待 6s",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [],
+      "next": [
+        "b059u"
+      ],
+      "once": true,
+      "delayMs": 5500
+    },
+    {
+      "id": "b059u",
+      "type": "action",
+      "label": "权五律 18:33",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [
+        {
+          "type": "unlock",
+          "key": "kk-174",
+          "value": ""
+        },
+        {
+          "type": "notification",
+          "key": "",
+          "value": "权五律：你不用因为这个答应我。"
+        }
+      ],
+      "next": [
+        "b060d"
+      ],
+      "once": true
+    },
+    {
+      "id": "b060d",
+      "type": "delay",
+      "label": "等待 2s",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [],
+      "next": [
+        "b061u"
+      ],
+      "once": true,
+      "delayMs": 2000
+    },
+    {
+      "id": "b061u",
+      "type": "action",
+      "label": "郑宇津 18:33",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [
+        {
+          "type": "unlock",
+          "key": "kk-294",
+          "value": ""
+        },
+        {
+          "type": "notification",
+          "key": "",
+          "value": "郑宇津：拜托了"
+        }
+      ],
+      "next": [
+        "b062d"
+      ],
+      "once": true
+    },
+    {
+      "id": "b062d",
+      "type": "delay",
+      "label": "等待 6s",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [],
+      "next": [
+        "b063u"
+      ],
+      "once": true,
+      "delayMs": 5500
+    },
+    {
+      "id": "b063u",
+      "type": "action",
+      "label": "权五律 18:34",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [
+        {
+          "type": "unlock",
+          "key": "kk-175",
+          "value": ""
+        },
+        {
+          "type": "notification",
+          "key": "",
+          "value": "权五律：我不是想用这个留住你。"
+        }
+      ],
+      "next": [
+        "b064d"
+      ],
+      "once": true
+    },
+    {
+      "id": "b064d",
+      "type": "delay",
+      "label": "等待 6s",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [],
+      "next": [
+        "b065t"
+      ],
+      "once": true,
+      "delayMs": 5500
+    },
+    {
+      "id": "b065t",
+      "type": "action",
+      "label": "时间来到 18:35",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [
+        {
+          "type": "time",
+          "key": "",
+          "value": "18:35"
+        }
+      ],
+      "next": [
+        "b066c"
+      ],
+      "once": true
+    },
+    {
+      "id": "b066c",
       "type": "action",
       "label": "林路易来电",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
       "actions": [
         {
           "type": "call",
-          "key": "call-im-2202",
+          "key": "call-im-1835",
           "value": "林路易"
         }
-      ]
+      ],
+      "next": [],
+      "once": true
     },
     {
-      "id": "ev-decl-im",
+      "id": "b066u",
+      "type": "action",
+      "label": "记下这通未接来电",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [
+        {
+          "type": "unlock",
+          "key": "kk-324",
+          "value": ""
+        },
+        {
+          "type": "unlock",
+          "key": "call-im-1835",
+          "value": ""
+        }
+      ],
+      "next": [
+        "b067t"
+      ],
+      "once": true
+    },
+    {
+      "id": "b066decl",
       "type": "event",
       "label": "林路易被拒接",
       "event": "callDeclined",
-      "target": "call-im-2202",
+      "target": "call-im-1835",
+      "conditions": [],
+      "logic": "and",
+      "actions": [],
       "next": [
-        "ev-final"
-      ]
+        "b066u"
+      ],
+      "once": true
     },
     {
-      "id": "ev-end-im",
+      "id": "b066end",
       "type": "event",
       "label": "林路易挂断",
       "event": "callEnded",
-      "target": "call-im-2202",
+      "target": "call-im-1835",
+      "conditions": [],
+      "logic": "and",
+      "actions": [],
       "next": [
-        "ev-final"
-      ]
+        "b066u"
+      ],
+      "once": true
     },
     {
-      "id": "ev-final",
+      "id": "b067t",
+      "type": "action",
+      "label": "时间来到 18:36",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [
+        {
+          "type": "time",
+          "key": "",
+          "value": "18:36"
+        }
+      ],
+      "next": [
+        "b068d"
+      ],
+      "once": true
+    },
+    {
+      "id": "b068d",
+      "type": "delay",
+      "label": "等待 6s",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [],
+      "next": [
+        "b069u"
+      ],
+      "once": true,
+      "delayMs": 5500
+    },
+    {
+      "id": "b069u",
+      "type": "action",
+      "label": "权五律 18:36",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [
+        {
+          "type": "unlock",
+          "key": "kk-176",
+          "value": ""
+        },
+        {
+          "type": "notification",
+          "key": "",
+          "value": "权五律：你接一下电话，好不好？"
+        }
+      ],
+      "next": [
+        "b070d"
+      ],
+      "once": true
+    },
+    {
+      "id": "b070d",
+      "type": "delay",
+      "label": "等待 2s",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [],
+      "next": [
+        "b071u"
+      ],
+      "once": true,
+      "delayMs": 2000
+    },
+    {
+      "id": "b071u",
+      "type": "action",
+      "label": "林路易 18:36",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [
+        {
+          "type": "unlock",
+          "key": "kk-325",
+          "value": ""
+        },
+        {
+          "type": "notification",
+          "key": "",
+          "value": "林路易：姐姐你在哪？"
+        }
+      ],
+      "next": [
+        "b072d"
+      ],
+      "once": true
+    },
+    {
+      "id": "b072d",
+      "type": "delay",
+      "label": "等待 6s",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [],
+      "next": [
+        "b073u"
+      ],
+      "once": true,
+      "delayMs": 5500
+    },
+    {
+      "id": "b073u",
+      "type": "action",
+      "label": "林路易 18:37",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [
+        {
+          "type": "unlock",
+          "key": "kk-326",
+          "value": ""
+        },
+        {
+          "type": "notification",
+          "key": "",
+          "value": "林路易：我现在还不太清楚发生了什么"
+        }
+      ],
+      "next": [
+        "b074d"
+      ],
+      "once": true
+    },
+    {
+      "id": "b074d",
+      "type": "delay",
+      "label": "等待 6s",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [],
+      "next": [
+        "b075u"
+      ],
+      "once": true,
+      "delayMs": 5500
+    },
+    {
+      "id": "b075u",
+      "type": "action",
+      "label": "林路易 18:38",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [
+        {
+          "type": "unlock",
+          "key": "kk-327",
+          "value": ""
+        },
+        {
+          "type": "notification",
+          "key": "",
+          "value": "林路易：五律哥在哭"
+        }
+      ],
+      "next": [
+        "b076d"
+      ],
+      "once": true
+    },
+    {
+      "id": "b076d",
+      "type": "delay",
+      "label": "等待 6s",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [],
+      "next": [
+        "b077u"
+      ],
+      "once": true,
+      "delayMs": 5500
+    },
+    {
+      "id": "b077u",
+      "type": "action",
+      "label": "林路易 18:39",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [
+        {
+          "type": "unlock",
+          "key": "kk-328",
+          "value": ""
+        },
+        {
+          "type": "notification",
+          "key": "",
+          "value": "林路易：我第一次见哥哥哭"
+        }
+      ],
+      "next": [
+        "b078d"
+      ],
+      "once": true
+    },
+    {
+      "id": "b078d",
+      "type": "delay",
+      "label": "等待 6s",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [],
+      "next": [
+        "b079u"
+      ],
+      "once": true,
+      "delayMs": 5500
+    },
+    {
+      "id": "b079u",
+      "type": "action",
+      "label": "林路易 18:40",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [
+        {
+          "type": "unlock",
+          "key": "kk-329",
+          "value": ""
+        },
+        {
+          "type": "notification",
+          "key": "",
+          "value": "林路易：我不是要责怪姐姐"
+        }
+      ],
+      "next": [
+        "b080d"
+      ],
+      "once": true
+    },
+    {
+      "id": "b080d",
+      "type": "delay",
+      "label": "等待 6s",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [],
+      "next": [
+        "b081u"
+      ],
+      "once": true,
+      "delayMs": 5500
+    },
+    {
+      "id": "b081u",
+      "type": "action",
+      "label": "林路易 18:41",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [
+        {
+          "type": "unlock",
+          "key": "kk-330",
+          "value": ""
+        },
+        {
+          "type": "notification",
+          "key": "",
+          "value": "林路易：就是…不回复也没关系，但拜托告诉我你在哪里"
+        }
+      ],
+      "next": [
+        "b082d"
+      ],
+      "once": true
+    },
+    {
+      "id": "b082d",
+      "type": "delay",
+      "label": "等待 6s",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [],
+      "next": [
+        "b083u"
+      ],
+      "once": true,
+      "delayMs": 5500
+    },
+    {
+      "id": "b083u",
+      "type": "action",
+      "label": "林路易 18:42",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [
+        {
+          "type": "unlock",
+          "key": "kk-331",
+          "value": ""
+        },
+        {
+          "type": "notification",
+          "key": "",
+          "value": "林路易：我不觉得姐姐是坏人"
+        }
+      ],
+      "next": [
+        "b084d"
+      ],
+      "once": true
+    },
+    {
+      "id": "b084d",
+      "type": "delay",
+      "label": "一段很长的安静",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [],
+      "next": [
+        "b085t"
+      ],
+      "once": true,
+      "delayMs": 45000
+    },
+    {
+      "id": "b085t",
+      "type": "action",
+      "label": "时间来到 20:47",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [
+        {
+          "type": "time",
+          "key": "",
+          "value": "20:47"
+        }
+      ],
+      "next": [
+        "b086d"
+      ],
+      "once": true
+    },
+    {
+      "id": "b086d",
+      "type": "delay",
+      "label": "等待 4s",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [],
+      "next": [
+        "b087u"
+      ],
+      "once": true,
+      "delayMs": 3500
+    },
+    {
+      "id": "b087u",
+      "type": "action",
+      "label": "权五律 20:47",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [
+        {
+          "type": "unlock",
+          "key": "kk-177",
+          "value": ""
+        },
+        {
+          "type": "notification",
+          "key": "",
+          "value": "权五律：我知道你可能不想听我说话"
+        }
+      ],
+      "next": [
+        "b088d"
+      ],
+      "once": true
+    },
+    {
+      "id": "b088d",
+      "type": "delay",
+      "label": "等待 6s",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [],
+      "next": [
+        "b089u"
+      ],
+      "once": true,
+      "delayMs": 5500
+    },
+    {
+      "id": "b089u",
+      "type": "action",
+      "label": "权五律 20:48",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [
+        {
+          "type": "unlock",
+          "key": "kk-178",
+          "value": ""
+        },
+        {
+          "type": "notification",
+          "key": "",
+          "value": "权五律：我也知道你可能已经决定好了"
+        }
+      ],
+      "next": [
+        "b090d"
+      ],
+      "once": true
+    },
+    {
+      "id": "b090d",
+      "type": "delay",
+      "label": "等待 11s",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [],
+      "next": [
+        "b091u"
+      ],
+      "once": true,
+      "delayMs": 11000
+    },
+    {
+      "id": "b091u",
+      "type": "action",
+      "label": "权五律 20:50",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [
+        {
+          "type": "unlock",
+          "key": "kk-179",
+          "value": ""
+        },
+        {
+          "type": "notification",
+          "key": "",
+          "value": "权五律：我只是有点不明白"
+        }
+      ],
+      "next": [
+        "b092d"
+      ],
+      "once": true
+    },
+    {
+      "id": "b092d",
+      "type": "delay",
+      "label": "等待 2s",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [],
+      "next": [
+        "b093u"
+      ],
+      "once": true,
+      "delayMs": 2000
+    },
+    {
+      "id": "b093u",
+      "type": "action",
+      "label": "金栗 20:50",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [
+        {
+          "type": "unlock",
+          "key": "kk-250",
+          "value": ""
+        },
+        {
+          "type": "notification",
+          "key": "",
+          "value": "金栗：我不该把我喜欢你的事也放在今天说"
+        }
+      ],
+      "next": [
+        "b094d"
+      ],
+      "once": true
+    },
+    {
+      "id": "b094d",
+      "type": "delay",
+      "label": "等待 6s",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [],
+      "next": [
+        "b095u"
+      ],
+      "once": true,
+      "delayMs": 5500
+    },
+    {
+      "id": "b095u",
+      "type": "action",
+      "label": "权五律 20:51",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [
+        {
+          "type": "unlock",
+          "key": "kk-180",
+          "value": ""
+        },
+        {
+          "type": "notification",
+          "key": "",
+          "value": "权五律：我们最近确实经常吵架"
+        }
+      ],
+      "next": [
+        "b096d"
+      ],
+      "once": true
+    },
+    {
+      "id": "b096d",
+      "type": "delay",
+      "label": "等待 2s",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [],
+      "next": [
+        "b097u"
+      ],
+      "once": true,
+      "delayMs": 2000
+    },
+    {
+      "id": "b097u",
+      "type": "action",
+      "label": "金栗 20:51",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [
+        {
+          "type": "unlock",
+          "key": "kk-251",
+          "value": ""
+        },
+        {
+          "type": "notification",
+          "key": "",
+          "value": "金栗：我知道你现在连五律的事都不知道该怎么办"
+        }
+      ],
+      "next": [
+        "b098d"
+      ],
+      "once": true
+    },
+    {
+      "id": "b098d",
+      "type": "delay",
+      "label": "等待 6s",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [],
+      "next": [
+        "b099u"
+      ],
+      "once": true,
+      "delayMs": 5500
+    },
+    {
+      "id": "b099u",
+      "type": "action",
+      "label": "权五律 20:52",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [
+        {
+          "type": "unlock",
+          "key": "kk-181",
+          "value": ""
+        },
+        {
+          "type": "notification",
+          "key": "",
+          "value": "权五律：我知道你很累"
+        }
+      ],
+      "next": [
+        "b100d"
+      ],
+      "once": true
+    },
+    {
+      "id": "b100d",
+      "type": "delay",
+      "label": "等待 2s",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [],
+      "next": [
+        "b101u"
+      ],
+      "once": true,
+      "delayMs": 2000
+    },
+    {
+      "id": "b101u",
+      "type": "action",
+      "label": "金栗 20:52",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [
+        {
+          "type": "unlock",
+          "key": "kk-252",
+          "value": ""
+        },
+        {
+          "type": "unlock",
+          "key": "kk-253",
+          "value": ""
+        },
+        {
+          "type": "notification",
+          "key": "",
+          "value": "金栗：对不起"
+        }
+      ],
+      "next": [
+        "b102d"
+      ],
+      "once": true
+    },
+    {
+      "id": "b102d",
+      "type": "delay",
+      "label": "等待 6s",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [],
+      "next": [
+        "b103u"
+      ],
+      "once": true,
+      "delayMs": 5500
+    },
+    {
+      "id": "b103u",
+      "type": "action",
+      "label": "金栗 20:53",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [
+        {
+          "type": "unlock",
+          "key": "kk-254",
+          "value": ""
+        },
+        {
+          "type": "unlock",
+          "key": "kk-255",
+          "value": ""
+        },
+        {
+          "type": "notification",
+          "key": "",
+          "value": "金栗：也不用觉得欠我什么"
+        }
+      ],
+      "next": [
+        "b104d"
+      ],
+      "once": true
+    },
+    {
+      "id": "b104d",
+      "type": "delay",
+      "label": "等待 6s",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [],
+      "next": [
+        "b105u"
+      ],
+      "once": true,
+      "delayMs": 5500
+    },
+    {
+      "id": "b105u",
+      "type": "action",
+      "label": "权五律 20:54",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [
+        {
+          "type": "unlock",
+          "key": "kk-182",
+          "value": ""
+        },
+        {
+          "type": "notification",
+          "key": "",
+          "value": "权五律：我一直在想是不是我做得不够好"
+        }
+      ],
+      "next": [
+        "b106d"
+      ],
+      "once": true
+    },
+    {
+      "id": "b106d",
+      "type": "delay",
+      "label": "等待 6s",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [],
+      "next": [
+        "b107u"
+      ],
+      "once": true,
+      "delayMs": 5500
+    },
+    {
+      "id": "b107u",
+      "type": "action",
+      "label": "权五律 20:55",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [
+        {
+          "type": "unlock",
+          "key": "kk-183",
+          "value": ""
+        },
+        {
+          "type": "notification",
+          "key": "",
+          "value": "权五律：是不是我太黏你了"
+        }
+      ],
+      "next": [
+        "b108d"
+      ],
+      "once": true
+    },
+    {
+      "id": "b108d",
+      "type": "delay",
+      "label": "等待 2s",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [],
+      "next": [
+        "b109u"
+      ],
+      "once": true,
+      "delayMs": 2000
+    },
+    {
+      "id": "b109u",
+      "type": "action",
+      "label": "金栗 20:55",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [
+        {
+          "type": "unlock",
+          "key": "kk-256",
+          "value": ""
+        },
+        {
+          "type": "notification",
+          "key": "",
+          "value": "金栗：你今天跑掉，我第一反应是担心你"
+        }
+      ],
+      "next": [
+        "b110d"
+      ],
+      "once": true
+    },
+    {
+      "id": "b110d",
+      "type": "delay",
+      "label": "等待 6s",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [],
+      "next": [
+        "b111u"
+      ],
+      "once": true,
+      "delayMs": 5500
+    },
+    {
+      "id": "b111u",
+      "type": "action",
+      "label": "权五律 20:56",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [
+        {
+          "type": "unlock",
+          "key": "kk-184",
+          "value": ""
+        },
+        {
+          "type": "notification",
+          "key": "",
+          "value": "权五律：是不是我总是让你有压力"
+        }
+      ],
+      "next": [
+        "b112d"
+      ],
+      "once": true
+    },
+    {
+      "id": "b112d",
+      "type": "delay",
+      "label": "等待 2s",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [],
+      "next": [
+        "b113u"
+      ],
+      "once": true,
+      "delayMs": 2000
+    },
+    {
+      "id": "b113u",
+      "type": "action",
+      "label": "金栗 20:56",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [
+        {
+          "type": "unlock",
+          "key": "kk-257",
+          "value": ""
+        },
+        {
+          "type": "notification",
+          "key": "",
+          "value": "金栗：后来才发现，我甚至不知道你平时难受的时候会去哪里"
+        }
+      ],
+      "next": [
+        "b114d"
+      ],
+      "once": true
+    },
+    {
+      "id": "b114d",
+      "type": "delay",
+      "label": "等待 11s",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [],
+      "next": [
+        "b115u"
+      ],
+      "once": true,
+      "delayMs": 11000
+    },
+    {
+      "id": "b115u",
+      "type": "action",
+      "label": "权五律 20:58",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [
+        {
+          "type": "unlock",
+          "key": "kk-185",
+          "value": ""
+        },
+        {
+          "type": "notification",
+          "key": "",
+          "value": "权五律：我想过很多次"
+        }
+      ],
+      "next": [
+        "b116d"
+      ],
+      "once": true
+    },
+    {
+      "id": "b116d",
+      "type": "delay",
+      "label": "等待 2s",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [],
+      "next": [
+        "b117u"
+      ],
+      "once": true,
+      "delayMs": 2000
+    },
+    {
+      "id": "b117u",
+      "type": "action",
+      "label": "金栗 20:58",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [
+        {
+          "type": "unlock",
+          "key": "kk-258",
+          "value": ""
+        },
+        {
+          "type": "notification",
+          "key": "",
+          "value": "金栗：我们认识这么多年了"
+        }
+      ],
+      "next": [
+        "b118t"
+      ],
+      "once": true
+    },
+    {
+      "id": "b118t",
+      "type": "action",
+      "label": "时间来到 20:59",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [
+        {
+          "type": "time",
+          "key": "",
+          "value": "20:59"
+        }
+      ],
+      "next": [
+        "b119d"
+      ],
+      "once": true
+    },
+    {
+      "id": "b119d",
+      "type": "delay",
+      "label": "等待 6s",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [],
+      "next": [
+        "b120u"
+      ],
+      "once": true,
+      "delayMs": 5500
+    },
+    {
+      "id": "b120u",
+      "type": "action",
+      "label": "金栗 20:59",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [
+        {
+          "type": "unlock",
+          "key": "kk-259",
+          "value": ""
+        },
+        {
+          "type": "notification",
+          "key": "",
+          "value": "金栗：我好像一直觉得，只要你需要我，我就在就够了"
+        }
+      ],
+      "next": [
+        "b121d"
+      ],
+      "once": true
+    },
+    {
+      "id": "b121d",
+      "type": "delay",
+      "label": "等待 6s",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [],
+      "next": [
+        "b122u"
+      ],
+      "once": true,
+      "delayMs": 5500
+    },
+    {
+      "id": "b122u",
+      "type": "action",
+      "label": "权五律 21:00",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [
+        {
+          "type": "unlock",
+          "key": "kk-186",
+          "value": ""
+        },
+        {
+          "type": "notification",
+          "key": "",
+          "value": "权五律：但是我没想到你已经想跟我分手了"
+        }
+      ],
+      "next": [
+        "b123d"
+      ],
+      "once": true
+    },
+    {
+      "id": "b123d",
+      "type": "delay",
+      "label": "等待 6s",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [],
+      "next": [
+        "b124u"
+      ],
+      "once": true,
+      "delayMs": 5500
+    },
+    {
+      "id": "b124u",
+      "type": "action",
+      "label": "权五律 21:01",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [
+        {
+          "type": "unlock",
+          "key": "kk-187",
+          "value": ""
+        },
+        {
+          "type": "notification",
+          "key": "",
+          "value": "权五律：对不起"
+        }
+      ],
+      "next": [
+        "b125d"
+      ],
+      "once": true
+    },
+    {
+      "id": "b125d",
+      "type": "delay",
+      "label": "等待 2s",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [],
+      "next": [
+        "b126u"
+      ],
+      "once": true,
+      "delayMs": 2000
+    },
+    {
+      "id": "b126u",
+      "type": "action",
+      "label": "金栗 21:01",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [
+        {
+          "type": "unlock",
+          "key": "kk-260",
+          "value": ""
+        },
+        {
+          "type": "notification",
+          "key": "",
+          "value": "金栗：但我现在才发现，我根本不知道你到底过得怎么样"
+        }
+      ],
+      "next": [
+        "b127d"
+      ],
+      "once": true
+    },
+    {
+      "id": "b127d",
+      "type": "delay",
+      "label": "等待 6s",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [],
+      "next": [
+        "b128u"
+      ],
+      "once": true,
+      "delayMs": 5500
+    },
+    {
+      "id": "b128u",
+      "type": "action",
+      "label": "权五律 21:02",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [
+        {
+          "type": "unlock",
+          "key": "kk-188",
+          "value": ""
+        },
+        {
+          "type": "notification",
+          "key": "",
+          "value": "权五律：我本来想今天问你的"
+        }
+      ],
+      "next": [
+        "b129d"
+      ],
+      "once": true
+    },
+    {
+      "id": "b129d",
+      "type": "delay",
+      "label": "等待 2s",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [],
+      "next": [
+        "b130u"
+      ],
+      "once": true,
+      "delayMs": 2000
+    },
+    {
+      "id": "b130u",
+      "type": "action",
+      "label": "郑宇津 21:02",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [
+        {
+          "type": "unlock",
+          "key": "kk-295",
+          "value": ""
+        },
+        {
+          "type": "notification",
+          "key": "",
+          "value": "郑宇津：你怎么还没接电话"
+        }
+      ],
+      "next": [
+        "b131d"
+      ],
+      "once": true
+    },
+    {
+      "id": "b131d",
+      "type": "delay",
+      "label": "等待 6s",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [],
+      "next": [
+        "b132u"
+      ],
+      "once": true,
+      "delayMs": 5500
+    },
+    {
+      "id": "b132u",
+      "type": "action",
+      "label": "权五律 21:03",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [
+        {
+          "type": "unlock",
+          "key": "kk-189",
+          "value": ""
+        },
+        {
+          "type": "notification",
+          "key": "",
+          "value": "权五律：想问你愿不愿意跟我一直在一起"
+        }
+      ],
+      "next": [
+        "b133d"
+      ],
+      "once": true
+    },
+    {
+      "id": "b133d",
+      "type": "delay",
+      "label": "等待 2s",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [],
+      "next": [
+        "b134u"
+      ],
+      "once": true,
+      "delayMs": 2000
+    },
+    {
+      "id": "b134u",
+      "type": "action",
+      "label": "金栗 21:03",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [
+        {
+          "type": "unlock",
+          "key": "kk-261",
+          "value": ""
+        },
+        {
+          "type": "notification",
+          "key": "",
+          "value": "金栗：我不会逼你跟我在一起"
+        }
+      ],
+      "next": [
+        "b135d"
+      ],
+      "once": true
+    },
+    {
+      "id": "b135d",
+      "type": "delay",
+      "label": "等待 2s",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [],
+      "next": [
+        "b136u"
+      ],
+      "once": true,
+      "delayMs": 2000
+    },
+    {
+      "id": "b136u",
+      "type": "action",
+      "label": "郑宇津 21:03",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [
+        {
+          "type": "unlock",
+          "key": "kk-296",
+          "value": ""
+        },
+        {
+          "type": "notification",
+          "key": "",
+          "value": "郑宇津：他连话都说不出来"
+        }
+      ],
+      "next": [
+        "b137d"
+      ],
+      "once": true
+    },
+    {
+      "id": "b137d",
+      "type": "delay",
+      "label": "等待 6s",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [],
+      "next": [
+        "b138u"
+      ],
+      "once": true,
+      "delayMs": 5500
+    },
+    {
+      "id": "b138u",
+      "type": "action",
+      "label": "权五律 21:04",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [
+        {
+          "type": "unlock",
+          "key": "kk-190",
+          "value": ""
+        },
+        {
+          "type": "notification",
+          "key": "",
+          "value": "权五律：我准备了很久"
+        }
+      ],
+      "next": [
+        "b139d"
+      ],
+      "once": true
+    },
+    {
+      "id": "b139d",
+      "type": "delay",
+      "label": "等待 2s",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [],
+      "next": [
+        "b140u"
+      ],
+      "once": true,
+      "delayMs": 2000
+    },
+    {
+      "id": "b140u",
+      "type": "action",
+      "label": "金栗 21:04",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [
+        {
+          "type": "unlock",
+          "key": "kk-262",
+          "value": ""
+        },
+        {
+          "type": "notification",
+          "key": "",
+          "value": "金栗：我也不会因为你选择五律，就怪你"
+        }
+      ],
+      "next": [
+        "b141d"
+      ],
+      "once": true
+    },
+    {
+      "id": "b141d",
+      "type": "delay",
+      "label": "等待 2s",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [],
+      "next": [
+        "b142u"
+      ],
+      "once": true,
+      "delayMs": 2000
+    },
+    {
+      "id": "b142u",
+      "type": "action",
+      "label": "郑宇津 21:04",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [
+        {
+          "type": "unlock",
+          "key": "kk-297",
+          "value": ""
+        },
+        {
+          "type": "notification",
+          "key": "",
+          "value": "郑宇津：一直在给你打电话"
+        }
+      ],
+      "next": [
+        "b143d"
+      ],
+      "once": true
+    },
+    {
+      "id": "b143d",
+      "type": "delay",
+      "label": "等待 6s",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [],
+      "next": [
+        "b144u"
+      ],
+      "once": true,
+      "delayMs": 5500
+    },
+    {
+      "id": "b144u",
+      "type": "action",
+      "label": "郑宇津 21:05",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [
+        {
+          "type": "unlock",
+          "key": "kk-298",
+          "value": ""
+        },
+        {
+          "type": "notification",
+          "key": "",
+          "value": "郑宇津：我从来没有没见过他这样"
+        }
+      ],
+      "next": [
+        "b145d"
+      ],
+      "once": true
+    },
+    {
+      "id": "b145d",
+      "type": "delay",
+      "label": "等待 6s",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [],
+      "next": [
+        "b146u"
+      ],
+      "once": true,
+      "delayMs": 5500
+    },
+    {
+      "id": "b146u",
+      "type": "action",
+      "label": "权五律 21:06",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [
+        {
+          "type": "unlock",
+          "key": "kk-191",
+          "value": ""
+        },
+        {
+          "type": "notification",
+          "key": "",
+          "value": "权五律：但你不用因为这个觉得对不起我"
+        }
+      ],
+      "next": [
+        "b147d"
+      ],
+      "once": true
+    },
+    {
+      "id": "b147d",
+      "type": "delay",
+      "label": "等待 2s",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [],
+      "next": [
+        "b148u"
+      ],
+      "once": true,
+      "delayMs": 2000
+    },
+    {
+      "id": "b148u",
+      "type": "action",
+      "label": "金栗 21:06",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [
+        {
+          "type": "unlock",
+          "key": "kk-263",
+          "value": ""
+        },
+        {
+          "type": "notification",
+          "key": "",
+          "value": "金栗：我只希望你不要因为今天发生的事觉得自己是个很差劲的人"
+        }
+      ],
+      "next": [
+        "b149d"
+      ],
+      "once": true
+    },
+    {
+      "id": "b149d",
+      "type": "delay",
+      "label": "等待 6s",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [],
+      "next": [
+        "b150u"
+      ],
+      "once": true,
+      "delayMs": 5500
+    },
+    {
+      "id": "b150u",
+      "type": "action",
+      "label": "郑宇津 21:07",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [
+        {
+          "type": "unlock",
+          "key": "kk-299",
+          "value": ""
+        },
+        {
+          "type": "notification",
+          "key": "",
+          "value": "郑宇津：我不知道你们之间到底发生了什么"
+        }
+      ],
+      "next": [
+        "b151d"
+      ],
+      "once": true
+    },
+    {
+      "id": "b151d",
+      "type": "delay",
+      "label": "等待 6s",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [],
+      "next": [
+        "b152u"
+      ],
+      "once": true,
+      "delayMs": 5500
+    },
+    {
+      "id": "b152u",
+      "type": "action",
+      "label": "权五律 21:08",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [
+        {
+          "type": "unlock",
+          "key": "kk-192",
+          "value": ""
+        },
+        {
+          "type": "notification",
+          "key": "",
+          "value": "权五律：我不想你因为可怜我，或者怕我难过，就继续跟我在一起"
+        }
+      ],
+      "next": [
+        "b153d"
+      ],
+      "once": true
+    },
+    {
+      "id": "b153d",
+      "type": "delay",
+      "label": "等待 2s",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [],
+      "next": [
+        "b154u"
+      ],
+      "once": true,
+      "delayMs": 2000
+    },
+    {
+      "id": "b154u",
+      "type": "action",
+      "label": "郑宇津 21:08",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [
+        {
+          "type": "unlock",
+          "key": "kk-300",
+          "value": ""
+        },
+        {
+          "type": "notification",
+          "key": "",
+          "value": "郑宇津：你们的事我本来不应该插嘴"
+        }
+      ],
+      "next": [
+        "b155d"
+      ],
+      "once": true
+    },
+    {
+      "id": "b155d",
+      "type": "delay",
+      "label": "等待 2s",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [],
+      "next": [
+        "b156u"
+      ],
+      "once": true,
+      "delayMs": 2000
+    },
+    {
+      "id": "b156u",
+      "type": "action",
+      "label": "林路易 21:08",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [
+        {
+          "type": "unlock",
+          "key": "kk-332",
+          "value": ""
+        },
+        {
+          "type": "notification",
+          "key": "",
+          "value": "林路易：姐姐，我现在在哥哥旁边"
+        }
+      ],
+      "next": [
+        "b157d"
+      ],
+      "once": true
+    },
+    {
+      "id": "b157d",
+      "type": "delay",
+      "label": "等待 6s",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [],
+      "next": [
+        "b158u"
+      ],
+      "once": true,
+      "delayMs": 5500
+    },
+    {
+      "id": "b158u",
+      "type": "action",
+      "label": "权五律 21:09",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [
+        {
+          "type": "unlock",
+          "key": "kk-193",
+          "value": ""
+        },
+        {
+          "type": "notification",
+          "key": "",
+          "value": "权五律：我只是想知道"
+        }
+      ],
+      "next": [
+        "b159d"
+      ],
+      "once": true
+    },
+    {
+      "id": "b159d",
+      "type": "delay",
+      "label": "等待 2s",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [],
+      "next": [
+        "b160u"
+      ],
+      "once": true,
+      "delayMs": 2000
+    },
+    {
+      "id": "b160u",
+      "type": "action",
+      "label": "林路易 21:09",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [
+        {
+          "type": "unlock",
+          "key": "kk-333",
+          "value": ""
+        },
+        {
+          "type": "notification",
+          "key": "",
+          "value": "林路易：哥哥一直在给你打电话"
+        }
+      ],
+      "next": [
+        "b161d"
+      ],
+      "once": true
+    },
+    {
+      "id": "b161d",
+      "type": "delay",
+      "label": "等待 6s",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [],
+      "next": [
+        "b162u"
+      ],
+      "once": true,
+      "delayMs": 5500
+    },
+    {
+      "id": "b162u",
+      "type": "action",
+      "label": "权五律 21:10",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [
+        {
+          "type": "unlock",
+          "key": "kk-194",
+          "value": ""
+        },
+        {
+          "type": "notification",
+          "key": "",
+          "value": "权五律：你以前喜欢我的时候，是真的吗？"
+        }
+      ],
+      "next": [
+        "b163d"
+      ],
+      "once": true
+    },
+    {
+      "id": "b163d",
+      "type": "delay",
+      "label": "等待 2s",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [],
+      "next": [
+        "b164u"
+      ],
+      "once": true,
+      "delayMs": 2000
+    },
+    {
+      "id": "b164u",
+      "type": "action",
+      "label": "郑宇津 21:10",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [
+        {
+          "type": "unlock",
+          "key": "kk-301",
+          "value": ""
+        },
+        {
+          "type": "notification",
+          "key": "",
+          "value": "郑宇津：但是今天五律哥打算和你求婚"
+        }
+      ],
+      "next": [
+        "b165t"
+      ],
+      "once": true
+    },
+    {
+      "id": "b165t",
+      "type": "action",
+      "label": "时间来到 21:11",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [
+        {
+          "type": "time",
+          "key": "",
+          "value": "21:11"
+        }
+      ],
+      "next": [
+        "b166d"
+      ],
+      "once": true
+    },
+    {
+      "id": "b166d",
+      "type": "delay",
+      "label": "等待 6s",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [],
+      "next": [
+        "b167u"
+      ],
+      "once": true,
+      "delayMs": 5500
+    },
+    {
+      "id": "b167u",
+      "type": "action",
+      "label": "郑宇津 21:11",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [
+        {
+          "type": "unlock",
+          "key": "kk-302",
+          "value": ""
+        },
+        {
+          "type": "notification",
+          "key": "",
+          "value": "郑宇津：我以前真的很喜欢看你们在一起"
+        }
+      ],
+      "next": [
+        "b168d"
+      ],
+      "once": true
+    },
+    {
+      "id": "b168d",
+      "type": "delay",
+      "label": "等待 2s",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [],
+      "next": [
+        "b169u"
+      ],
+      "once": true,
+      "delayMs": 2000
+    },
+    {
+      "id": "b169u",
+      "type": "action",
+      "label": "林路易 21:11",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [
+        {
+          "type": "unlock",
+          "key": "kk-334",
+          "value": ""
+        },
+        {
+          "type": "notification",
+          "key": "",
+          "value": "林路易：就算姐姐已经不爱哥哥了，也不是姐姐的错"
+        }
+      ],
+      "next": [
+        "b170d"
+      ],
+      "once": true
+    },
+    {
+      "id": "b170d",
+      "type": "delay",
+      "label": "等待 6s",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [],
+      "next": [
+        "b171u"
+      ],
+      "once": true,
+      "delayMs": 5500
+    },
+    {
+      "id": "b171u",
+      "type": "action",
+      "label": "郑宇津 21:12",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [
+        {
+          "type": "unlock",
+          "key": "kk-303",
+          "value": ""
+        },
+        {
+          "type": "notification",
+          "key": "",
+          "value": "郑宇津：哥跟你在一起的时候跟平时不一样"
+        }
+      ],
+      "next": [
+        "b172d"
+      ],
+      "once": true
+    },
+    {
+      "id": "b172d",
+      "type": "delay",
+      "label": "等待 2s",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [],
+      "next": [
+        "b173u"
+      ],
+      "once": true,
+      "delayMs": 2000
+    },
+    {
+      "id": "b173u",
+      "type": "action",
+      "label": "林路易 21:12",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [
+        {
+          "type": "unlock",
+          "key": "kk-335",
+          "value": ""
+        },
+        {
+          "type": "notification",
+          "key": "",
+          "value": "林路易：但我希望哥哥不要觉得自己是不值得被爱的人"
+        }
+      ],
+      "next": [
+        "b174d"
+      ],
+      "once": true
+    },
+    {
+      "id": "b174d",
+      "type": "delay",
+      "label": "等待 6s",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [],
+      "next": [
+        "b175u"
+      ],
+      "once": true,
+      "delayMs": 5500
+    },
+    {
+      "id": "b175u",
+      "type": "action",
+      "label": "郑宇津 21:13",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [
+        {
+          "type": "unlock",
+          "key": "kk-304",
+          "value": ""
+        },
+        {
+          "type": "notification",
+          "key": "",
+          "value": "郑宇津：我以为他终于可以一直这么开心了"
+        }
+      ],
+      "next": [
+        "b176d"
+      ],
+      "once": true
+    },
+    {
+      "id": "b176d",
+      "type": "delay",
+      "label": "等待 2s",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [],
+      "next": [
+        "b177u"
+      ],
+      "once": true,
+      "delayMs": 2000
+    },
+    {
+      "id": "b177u",
+      "type": "action",
+      "label": "林路易 21:13",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [
+        {
+          "type": "unlock",
+          "key": "kk-336",
+          "value": ""
+        },
+        {
+          "type": "notification",
+          "key": "",
+          "value": "林路易：姐姐也是"
+        }
+      ],
+      "next": [
+        "b178d"
+      ],
+      "once": true
+    },
+    {
+      "id": "b178d",
+      "type": "delay",
+      "label": "等待 6s",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [],
+      "next": [
+        "b179u"
+      ],
+      "once": true,
+      "delayMs": 5500
+    },
+    {
+      "id": "b179u",
+      "type": "action",
+      "label": "林路易 21:14",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [
+        {
+          "type": "unlock",
+          "key": "kk-337",
+          "value": ""
+        },
+        {
+          "type": "notification",
+          "key": "",
+          "value": "林路易：只是希望姐姐没事"
+        }
+      ],
+      "next": [
+        "b180d"
+      ],
+      "once": true
+    },
+    {
+      "id": "b180d",
+      "type": "delay",
+      "label": "等待 6s",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [],
+      "next": [
+        "b181u"
+      ],
+      "once": true,
+      "delayMs": 5500
+    },
+    {
+      "id": "b181u",
+      "type": "action",
+      "label": "权五律 21:15",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [
+        {
+          "type": "unlock",
+          "key": "kk-195",
+          "value": ""
+        },
+        {
+          "type": "notification",
+          "key": "",
+          "value": "权五律：如果你今天不知道求婚的事是不是就不会跟我分手？"
+        }
+      ],
+      "next": [
+        "b182d"
+      ],
+      "once": true
+    },
+    {
+      "id": "b182d",
+      "type": "delay",
+      "label": "等待 2s",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [],
+      "next": [
+        "b183u"
+      ],
+      "once": true,
+      "delayMs": 2000
+    },
+    {
+      "id": "b183u",
+      "type": "action",
+      "label": "郑宇津 21:15",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [
+        {
+          "type": "unlock",
+          "key": "kk-305",
+          "value": ""
+        },
+        {
+          "type": "unlock",
+          "key": "kk-306",
+          "value": ""
+        },
+        {
+          "type": "notification",
+          "key": "",
+          "value": "郑宇津：是不是他哪里做得不好"
+        }
+      ],
+      "next": [
+        "b184d"
+      ],
+      "once": true
+    },
+    {
+      "id": "b184d",
+      "type": "delay",
+      "label": "等待 6s",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [],
+      "next": [
+        "b185u"
+      ],
+      "once": true,
+      "delayMs": 5500
+    },
+    {
+      "id": "b185u",
+      "type": "action",
+      "label": "权五律 21:16",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [
+        {
+          "type": "unlock",
+          "key": "kk-196",
+          "value": ""
+        },
+        {
+          "type": "notification",
+          "key": "",
+          "value": "权五律：是不是我逼得太紧了我们也没有在一起很久"
+        }
+      ],
+      "next": [
+        "b186d"
+      ],
+      "once": true
+    },
+    {
+      "id": "b186d",
+      "type": "delay",
+      "label": "等待 2s",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [],
+      "next": [
+        "b187u"
+      ],
+      "once": true,
+      "delayMs": 2000
+    },
+    {
+      "id": "b187u",
+      "type": "action",
+      "label": "郑宇津 21:16",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [
+        {
+          "type": "unlock",
+          "key": "kk-307",
+          "value": ""
+        },
+        {
+          "type": "notification",
+          "key": "",
+          "value": "郑宇津：你知道吗"
+        }
+      ],
+      "next": [
+        "b188d"
+      ],
+      "once": true
+    },
+    {
+      "id": "b188d",
+      "type": "delay",
+      "label": "等待 6s",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [],
+      "next": [
+        "b189u"
+      ],
+      "once": true,
+      "delayMs": 5500
+    },
+    {
+      "id": "b189u",
+      "type": "action",
+      "label": "权五律 21:17",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [
+        {
+          "type": "unlock",
+          "key": "kk-197",
+          "value": ""
+        },
+        {
+          "type": "notification",
+          "key": "",
+          "value": "权五律：我很担心你"
+        }
+      ],
+      "next": [
+        "b190d"
+      ],
+      "once": true
+    },
+    {
+      "id": "b190d",
+      "type": "delay",
+      "label": "等待 2s",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [],
+      "next": [
+        "b191u"
+      ],
+      "once": true,
+      "delayMs": 2000
+    },
+    {
+      "id": "b191u",
+      "type": "action",
+      "label": "郑宇津 21:17",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [
+        {
+          "type": "unlock",
+          "key": "kk-308",
+          "value": ""
+        },
+        {
+          "type": "notification",
+          "key": "",
+          "value": "郑宇津：他到现在都在想是不是自己的问题"
+        }
+      ],
+      "next": [
+        "b192d"
+      ],
+      "once": true
+    },
+    {
+      "id": "b192d",
+      "type": "delay",
+      "label": "等待 6s",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [],
+      "next": [
+        "b193u"
+      ],
+      "once": true,
+      "delayMs": 5500
+    },
+    {
+      "id": "b193u",
+      "type": "action",
+      "label": "权五律 21:18",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [
+        {
+          "type": "unlock",
+          "key": "kk-198",
+          "value": ""
+        },
+        {
+          "type": "notification",
+          "key": "",
+          "value": "权五律：我以为等你不忙了我们就会好起来"
+        }
+      ],
+      "next": [
+        "b194d"
+      ],
+      "once": true
+    },
+    {
+      "id": "b194d",
+      "type": "delay",
+      "label": "等待 6s",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [],
+      "next": [
+        "b195u"
+      ],
+      "once": true,
+      "delayMs": 5500
+    },
+    {
+      "id": "b195u",
+      "type": "action",
+      "label": "权五律 21:19",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [
+        {
+          "type": "unlock",
+          "key": "kk-199",
+          "value": ""
+        },
+        {
+          "type": "notification",
+          "key": "",
+          "value": "权五律：你现在是不是很难受？"
+        }
+      ],
+      "next": [
+        "b196d"
+      ],
+      "once": true
+    },
+    {
+      "id": "b196d",
+      "type": "delay",
+      "label": "等待 2s",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [],
+      "next": [
+        "b197u"
+      ],
+      "once": true,
+      "delayMs": 2000
+    },
+    {
+      "id": "b197u",
+      "type": "action",
+      "label": "郑宇津 21:19",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [
+        {
+          "type": "unlock",
+          "key": "kk-309",
+          "value": ""
+        },
+        {
+          "type": "notification",
+          "key": "",
+          "value": "郑宇津：我不会替哥要求你留下"
+        }
+      ],
+      "next": [
+        "b198d"
+      ],
+      "once": true
+    },
+    {
+      "id": "b198d",
+      "type": "delay",
+      "label": "等待 6s",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [],
+      "next": [
+        "b199u"
+      ],
+      "once": true,
+      "delayMs": 5500
+    },
+    {
+      "id": "b199u",
+      "type": "action",
+      "label": "权五律 21:20",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [
+        {
+          "type": "unlock",
+          "key": "kk-200",
+          "value": ""
+        },
+        {
+          "type": "notification",
+          "key": "",
+          "value": "权五律：至少告诉我你现在在哪好不好"
+        }
+      ],
+      "next": [
+        "b200d"
+      ],
+      "once": true
+    },
+    {
+      "id": "b200d",
+      "type": "delay",
+      "label": "等待 2s",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [],
+      "next": [
+        "b201u"
+      ],
+      "once": true,
+      "delayMs": 2000
+    },
+    {
+      "id": "b201u",
+      "type": "action",
+      "label": "郑宇津 21:20",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [
+        {
+          "type": "unlock",
+          "key": "kk-310",
+          "value": ""
+        },
+        {
+          "type": "notification",
+          "key": "",
+          "value": "郑宇津：你接一下电话告诉他你现在是安全的"
+        }
+      ],
+      "next": [
+        "b202d"
+      ],
+      "once": true
+    },
+    {
+      "id": "b202d",
+      "type": "delay",
+      "label": "等待 11s",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [],
+      "next": [
+        "b203u"
+      ],
+      "once": true,
+      "delayMs": 11000
+    },
+    {
+      "id": "b203u",
+      "type": "action",
+      "label": "郑宇津 21:22",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [
+        {
+          "type": "unlock",
+          "key": "kk-311",
+          "value": ""
+        },
+        {
+          "type": "notification",
+          "key": "",
+          "value": "郑宇津：之后最好一直别出现"
+        }
+      ],
+      "next": [
+        "b204d"
+      ],
+      "once": true
+    },
+    {
+      "id": "b204d",
+      "type": "delay",
+      "label": "手机安静下来",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [],
+      "next": [
+        "ev-choice"
+      ],
+      "once": true,
+      "delayMs": 14000
+    },
+    {
+      "id": "ev-choice",
+      "type": "choice",
+      "label": "今晚你要去哪",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [],
+      "next": [
+        "end-back",
+        "end-off",
+        "end-kim"
+      ],
+      "once": true
+    },
+    {
+      "id": "end-back",
       "type": "ending",
-      "label": "四通电话，一次都没有接起。",
-      "next": []
+      "label": "回去。至少今晚，回去。",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [
+        {
+          "type": "ending",
+          "key": "",
+          "value": "你在楼下站了很久，冷得指尖发麻，才去按门铃。\n门开的时候，客厅的灯全亮着，气球只吹了一半，蛋糕盒还没拆。\n他看见你，手里那个气球慢慢瘪下去。\n他没有问你去哪了，只说了一句：外面冷。\n那一晚谁都没有提分手。他给你煮姜茶，把你还冰着的手放在掌心里捂着，一直到你睡着。\n第二天早上他照常送你到门口，说路上小心。\n你走出去很远，才敢回头看一眼那扇门。\n有些话没有说出口，就会一直留在冬天里。"
+        }
+      ],
+      "next": [],
+      "once": true
+    },
+    {
+      "id": "end-off",
+      "type": "ending",
+      "label": "关机。今晚谁都不见。",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [
+        {
+          "type": "ending",
+          "key": "",
+          "value": "你把手机关了。屏幕黑下去的那一秒，整条街忽然安静得吓人。\n你在便利店坐到十一点，热咖啡喝到最后一口已经凉了，窗外一直在下小雪。\n第二天早上开机，四十七条未读。\n最上面那条是凌晨两点发的：我不问了。你只要过得好就行。\n你盯着这句话看了很久，手指在输入框里打了又删，删了又打。\n最后你什么也没回，把手机塞回口袋，走进那年冬天的第一场大雪。"
+        }
+      ],
+      "next": [],
+      "once": true
+    },
+    {
+      "id": "end-kim",
+      "type": "ending",
+      "label": "打给金栗。",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [
+        {
+          "type": "ending",
+          "key": "",
+          "value": "他接得很快，快到你还没想好要说什么。\n你在哪。他的声音哑得厉害。\n你说不出话，只听见他那边有风，还有跑起来的脚步声。\n你别动，我过来。\n他找到你的时候围巾都没系好，鼻尖冻得通红。\n对不起。他先开的口。\n你摇头。\n你们在马路牙子上坐了很久，谁都没有再提交往两个字。\n后来他送你到楼下，在雪里站了很久才走。\n你后来才知道，那天晚上他一条消息都没回权五律。\n有些人天生就是用来错过的，只是当时谁都不肯承认。"
+        }
+      ],
+      "next": [],
+      "once": true
     }
   ],
   "tests": [
     {
-      "name": "拒接全部四通来电",
+      "name": "走到岔路口然后「回去。至少今晚，回去。」",
       "steps": [
         {
-          "advanceMs": 45000
+          "advanceMs": 1800000
         },
         {
           "event": "callDeclined",
-          "target": "call-kwon-2147"
+          "target": "call-kim-1816"
         },
         {
-          "advanceMs": 75000
-        },
-        {
-          "event": "callDeclined",
-          "target": "call-kim-2152"
-        },
-        {
-          "advanceMs": 90000
+          "advanceMs": 1800000
         },
         {
           "event": "callDeclined",
-          "target": "call-jung-2157"
+          "target": "call-kwon-1822"
         },
         {
-          "advanceMs": 105000
+          "advanceMs": 1800000
         },
         {
           "event": "callDeclined",
-          "target": "call-im-2202"
+          "target": "call-jung-1828"
+        },
+        {
+          "advanceMs": 1800000
+        },
+        {
+          "event": "callDeclined",
+          "target": "call-im-1835"
+        },
+        {
+          "advanceMs": 1800000
+        },
+        {
+          "choose": "end-back"
         }
       ],
-      "ending": "四通电话，一次都没有接起。",
+      "ending": "你在楼下站了很久，冷得指尖发麻，才去按门铃。\n门开的时候，客厅的灯全亮着，气球只吹了一半，蛋糕盒还没拆。\n他看见你，手里那个气球慢慢瘪下去。\n他没有问你去哪了，只说了一句：外面冷。\n那一晚谁都没有提分手。他给你煮姜茶，把你还冰着的手放在掌心里捂着，一直到你睡着。\n第二天早上他照常送你到门口，说路上小心。\n你走出去很远，才敢回头看一眼那扇门。\n有些话没有说出口，就会一直留在冬天里。",
       "expectUnlocked": []
     },
     {
-      "name": "接起第一通再依次挂断",
+      "name": "走到岔路口然后「关机。今晚谁都不见。」",
       "steps": [
         {
-          "advanceMs": 45000
+          "advanceMs": 1800000
         },
         {
-          "event": "callAnswered",
-          "target": "call-kwon-2147"
+          "event": "callDeclined",
+          "target": "call-kim-1816"
         },
         {
-          "event": "callEnded",
-          "target": "call-kwon-2147"
+          "advanceMs": 1800000
         },
         {
-          "advanceMs": 75000
+          "event": "callDeclined",
+          "target": "call-kwon-1822"
         },
         {
-          "event": "callEnded",
-          "target": "call-kim-2152"
+          "advanceMs": 1800000
         },
         {
-          "advanceMs": 90000
+          "event": "callDeclined",
+          "target": "call-jung-1828"
         },
         {
-          "event": "callEnded",
-          "target": "call-jung-2157"
+          "advanceMs": 1800000
         },
         {
-          "advanceMs": 105000
+          "event": "callDeclined",
+          "target": "call-im-1835"
         },
         {
-          "event": "callEnded",
-          "target": "call-im-2202"
+          "advanceMs": 1800000
+        },
+        {
+          "choose": "end-off"
         }
       ],
-      "ending": "四通电话，一次都没有接起。",
+      "ending": "你把手机关了。屏幕黑下去的那一秒，整条街忽然安静得吓人。\n你在便利店坐到十一点，热咖啡喝到最后一口已经凉了，窗外一直在下小雪。\n第二天早上开机，四十七条未读。\n最上面那条是凌晨两点发的：我不问了。你只要过得好就行。\n你盯着这句话看了很久，手指在输入框里打了又删，删了又打。\n最后你什么也没回，把手机塞回口袋，走进那年冬天的第一场大雪。",
+      "expectUnlocked": []
+    },
+    {
+      "name": "走到岔路口然后「打给金栗。」",
+      "steps": [
+        {
+          "advanceMs": 1800000
+        },
+        {
+          "event": "callDeclined",
+          "target": "call-kim-1816"
+        },
+        {
+          "advanceMs": 1800000
+        },
+        {
+          "event": "callDeclined",
+          "target": "call-kwon-1822"
+        },
+        {
+          "advanceMs": 1800000
+        },
+        {
+          "event": "callDeclined",
+          "target": "call-jung-1828"
+        },
+        {
+          "advanceMs": 1800000
+        },
+        {
+          "event": "callDeclined",
+          "target": "call-im-1835"
+        },
+        {
+          "advanceMs": 1800000
+        },
+        {
+          "choose": "end-kim"
+        }
+      ],
+      "ending": "他接得很快，快到你还没想好要说什么。\n你在哪。他的声音哑得厉害。\n你说不出话，只听见他那边有风，还有跑起来的脚步声。\n你别动，我过来。\n他找到你的时候围巾都没系好，鼻尖冻得通红。\n对不起。他先开的口。\n你摇头。\n你们在马路牙子上坐了很久，谁都没有再提交往两个字。\n后来他送你到楼下，在雪里站了很久才走。\n你后来才知道，那天晚上他一条消息都没回权五律。\n有些人天生就是用来错过的，只是当时谁都不肯承认。",
       "expectUnlocked": []
     }
   ]

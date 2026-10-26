@@ -619,7 +619,7 @@ function PhoneRuntime({
               </button>
             </div>
           )}
-          {!creator && s.incomingCall && (
+          {!creator && !locked && s.incomingCall && (
             <div className="incoming-call-screen">
               <small>
                 {s.incomingCall.status === "ringing" ? "来电" : "通话中"} ·

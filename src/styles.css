@@ -1767,6 +1767,7 @@ svg {
 .ending p {
   font-size: 12px;
   line-height: 2;
+  white-space: pre-line;
 }
 .ending button {
   margin-top: 30px;
