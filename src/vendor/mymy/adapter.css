@@ -95,6 +95,57 @@
 .mymy-ui .kzm.kzmy .kzbub {
   background: #fee500;
 }
+/* 通话记录卡片：未接来电 / 视频通话 */
+.mymy-ui .kzcallrow {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 3px;
+  margin: 10px 0;
+  padding-left: 42px;
+  padding-right: 40px;
+}
+.mymy-ui .kzcall {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  width: 100%;
+  padding: 13px 16px;
+  border-radius: 16px;
+  background: #fff;
+}
+.mymy-ui .kzcall-ic {
+  flex: none;
+  width: 30px;
+  height: 30px;
+  border-radius: 9px;
+  display: grid;
+  place-items: center;
+  background: #c4c4c4;
+  color: #fff;
+}
+.mymy-ui .kzcall.video .kzcall-ic {
+  background: #35c05e;
+}
+.mymy-ui .kzcall-t {
+  flex: 1;
+  text-align: center;
+  font-size: 15px;
+  color: #111;
+}
+.mymy-ui .kzday {
+  display: flex;
+  justify-content: center;
+  margin: 14px 0 8px;
+}
+.mymy-ui .kzday > span {
+  padding: 5px 14px;
+  border-radius: 999px;
+  background: #00000014;
+  color: #5b6470;
+  font-size: 12px;
+  letter-spacing: 0.02em;
+}
 .mymy-ui .kzinp {
   margin-bottom: 12px;
 }

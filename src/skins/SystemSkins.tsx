@@ -47,6 +47,12 @@ export function PhoneSkin(p: Props) {
   const [digits, setDigits] = useState(""),
     [call, setCall] = useState("");
   const list = tab === "收藏" ? items.filter((i) => i.favorite) : items;
+  // 通讯录：从通话记录里归并出联系人（同名只留一个），无需额外数据源
+  const book = [...new Map(items.map((i) => [i.title, i])).values()].map((i) => ({
+    name: i.title,
+    number: meta(i, "number", i.sender),
+    count: items.filter((x) => x.title === i.title).length,
+  }));
   return (
     <div className="catalog-skin native-phone">
       <Header p={p} />
@@ -96,6 +102,29 @@ export function PhoneSkin(p: Props) {
               删除
             </button>
           </div>
+        ) : tab === "通讯录" ? (
+          <>
+            <SearchBox value={q} set={setQ} />
+            {book
+              .filter(
+                (c) => !q || c.name.includes(q) || String(c.number).includes(q),
+              )
+              .map((c) => (
+                <button
+                  className="call-row"
+                  key={c.name}
+                  onClick={() => setCall(c.name)}
+                >
+                  <Users size={17} />
+                  <span>
+                    <strong>{c.name}</strong>
+                    <small>{c.number}</small>
+                  </span>
+                  <time>{c.count} 通</time>
+                </button>
+              ))}
+            {!book.length && <p className="catalog-empty">暂无联系人</p>}
+          </>
         ) : (
           <>
             <SearchBox value={q} set={setQ} />
@@ -113,7 +142,11 @@ export function PhoneSkin(p: Props) {
                     {meta(i, "status", "通话记录")}
                   </small>
                 </span>
-                <time>{i.time.slice(5, 10)}</time>
+                <time>
+                  {p.virtualDate && i.time.startsWith(p.virtualDate)
+                    ? i.time.slice(11, 16)
+                    : i.time.slice(5, 10)}
+                </time>
               </button>
             ))}
             <Empty items={list} />
@@ -172,7 +205,7 @@ export function ContactsSkin(p: Props) {
                   key={i.id}
                   item={i}
                   onItem={p.onItem}
-                  leading={<Avatar name={i.title} />}
+                  leading={<Avatar name={i.title} src={i.avatar} />}
                 />
               ))}
           </section>

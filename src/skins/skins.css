@@ -124,6 +124,9 @@
   flex: 1;
   min-width: 0;
 }
+.catalog-row > .catalog-avatar {
+  flex: none;
+}
 .catalog-row strong {
   font-size: 12px;
   font-weight: 600;

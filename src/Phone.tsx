@@ -626,7 +626,18 @@ function PhoneRuntime({
                 作品内模拟
               </small>
               <div className="incoming-avatar">
-                {s.incomingCall.caller.slice(0, 1)}
+                {(() => {
+                  const avatar = safeMedia(
+                    work.data.contacts?.find(
+                      (c) => c.title === s.incomingCall?.caller,
+                    )?.avatar || "",
+                  );
+                  return avatar ? (
+                    <img src={avatar} alt="" />
+                  ) : (
+                    s.incomingCall.caller.slice(0, 1)
+                  );
+                })()}
               </div>
               <h2>{s.incomingCall.caller}</h2>
               {s.incomingCall.status === "answered" &&

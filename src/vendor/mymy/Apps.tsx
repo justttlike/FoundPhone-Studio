@@ -1,7 +1,7 @@
 /* React/data adapters for dudwo5/Mymy UI templates: kt/ktn/KHD/bub,
  * igHome/igProfile/igDM/igSheet, xHome. See NOTICE.txt for permission.
  * Author content, DOM globals, timers and media dependencies are excluded. */
-import { useEffect, useRef, useState } from "react";
+import { Fragment, useEffect, useRef, useState } from "react";
 import {
   ArrowLeft,
   Search,
@@ -24,6 +24,8 @@ import {
   Smile,
   Menu,
   Compass,
+  Video,
+  PhoneMissed,
 } from "lucide-react";
 import type { SkinProps } from "../../AppSkins";
 import { Avatar, Media } from "../../skins/shared";
@@ -37,6 +39,28 @@ function grouped(items: Item[]) {
     items: items.filter((i) => i.title === title),
   }));
 }
+/* 相邻两条消息间隔超过 10 分钟就断开气泡组，让时间戳重新出现。 */
+const GAP_MS = 10 * 60 * 1000;
+function stamp(time: string) {
+  const t = Date.parse(time.replace(" ", "T"));
+  return Number.isFinite(t) ? t : NaN;
+}
+function gapBreak(a: Item | undefined, b: Item | undefined) {
+  if (!a || !b) return false;
+  const ta = stamp(a.time),
+    tb = stamp(b.time);
+  return Number.isFinite(ta) && Number.isFinite(tb) && tb - ta > GAP_MS;
+}
+function dayOf(time: string) {
+  const m = /^(\d{4})-(\d{2})-(\d{2})/.exec(time);
+  return m ? `${m[1]}-${m[2]}-${m[3]}` : "";
+}
+function dayLabel(day: string) {
+  const [y, m, d] = day.split("-");
+  return `${y}年${Number(m)}月${Number(d)}日`;
+}
+/* 通话卡片自成一段，前后都断开气泡组，避免时间戳被吞掉。 */
+const isCall = (x?: Item) => x?.kind === "call";
 export function messageRun(items: Item[], index: number) {
   const m = items[index],
     previous = items[index - 1],
@@ -44,9 +68,16 @@ export function messageRun(items: Item[], index: number) {
   return {
     first:
       !previous ||
+      isCall(previous) ||
       previous.outgoing !== m.outgoing ||
-      previous.sender !== m.sender,
-    last: !next || next.outgoing !== m.outgoing || next.sender !== m.sender,
+      previous.sender !== m.sender ||
+      gapBreak(previous, m),
+    last:
+      !next ||
+      isCall(next) ||
+      next.outgoing !== m.outgoing ||
+      next.sender !== m.sender ||
+      gapBreak(m, next),
   };
 }
 const read = (p: SkinProps, i: Item) =>
@@ -116,41 +147,74 @@ export function MymyKakao(p: SkinProps) {
           </header>
           <div className="msgs kk" ref={scroll}>
             {messages.map((m, i) => {
+              const day = dayOf(m.time),
+                newDay = !!day && day !== dayOf(messages[i - 1]?.time || "");
+              const divider = newDay ? (
+                <div className="kzday" key={"kzday-" + day + "-" + i}>
+                  <span>{dayLabel(day)}</span>
+                </div>
+              ) : null;
+              if (m.kind === "call")
+                return (
+                  <Fragment key={m.id}>
+                    {divider}
+                    <div className="kzcallrow">
+                      <div
+                        className={
+                          "kzcall" +
+                          (m.meta.callType === "missed" ? " missed" : " video")
+                        }
+                      >
+                        <span className="kzcall-ic">
+                          {m.meta.callType === "missed" ? (
+                            <PhoneMissed size={18} />
+                          ) : (
+                            <Video size={18} />
+                          )}
+                        </span>
+                        <span className="kzcall-t">{m.body}</span>
+                      </div>
+                      <span className="kzt">{m.time.slice(-5)}</span>
+                    </div>
+                  </Fragment>
+                );
               const run = messageRun(messages, i);
               return (
-                <div
-                  key={m.id}
-                  className={
-                    "kzm " +
-                    (m.outgoing ? "kzmy" : "kzot") +
-                    (run.first ? " first" : "")
-                  }
-                >
-                  {!m.outgoing && run.first && (
-                    <>
-                      <div className="kzmav">
-                        <Avatar name={m.sender} src={m.avatar} />
-                      </div>
-                      <div className="kzmn">{m.sender}</div>
-                    </>
-                  )}
-                  {m.outgoing && run.last && (
-                    <span className="kzt">
-                      {m.meta.unread || ""}
-                      <br />
-                      {m.time.slice(-5)}
-                    </span>
-                  )}
-                  <button
-                    className={"kzbub" + (m.media ? " kzimg" : "")}
-                    onClick={() => m.meta.local !== "true" && read(p, m)}
+                <Fragment key={m.id}>
+                  {divider}
+                  <div
+                    className={
+                      "kzm " +
+                      (m.outgoing ? "kzmy" : "kzot") +
+                      (run.first ? " first" : "")
+                    }
                   >
-                    {m.media ? <Media item={m} /> : m.body}
-                  </button>
-                  {!m.outgoing && run.last && (
-                    <span className="kzt">{m.time.slice(-5)}</span>
-                  )}
-                </div>
+                    {!m.outgoing && run.first && (
+                      <>
+                        <div className="kzmav">
+                          <Avatar name={m.sender} src={m.avatar} />
+                        </div>
+                        <div className="kzmn">{m.sender}</div>
+                      </>
+                    )}
+                    {m.outgoing && run.last && (
+                      <span className="kzt">
+                        {m.meta.unread || ""}
+                        <br />
+                        {m.time.slice(-5)}
+                      </span>
+                    )}
+                    <button
+                      className={"kzbub" + (m.media ? " kzimg" : "")}
+                      onClick={() => m.meta.local !== "true" && read(p, m)}
+                    >
+                      {m.media ? <Media item={m} /> : m.body}
+                    </button>
+                    {!m.outgoing && run.last && (
+                      <span className="kzt">{m.time.slice(-5)}</span>
+                    )}
+                  </div>
+                </Fragment>
               );
             })}
             {!messages.length && <Blank />}
