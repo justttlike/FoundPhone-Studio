@@ -18,17 +18,23 @@ export function SystemNotifications({
   apps,
   onOpen,
   onDismiss,
+  onMore,
   compact = false,
+  limit,
 }: {
   notices: string[];
   apps: Work["apps"];
   onOpen: () => void;
   onDismiss: (index: number) => void;
+  onMore?: () => void;
   compact?: boolean;
+  limit?: number;
 }) {
   const [expanded, setExpanded] = useState(false);
   const entries = notices.map((text, index) => ({ text, index })).reverse();
-  const shown = compact && !expanded ? entries.slice(0, 1) : entries;
+  const capped = limit ? entries.slice(0, limit) : entries;
+  const shown = compact && !expanded ? entries.slice(0, 1) : capped;
+  const hidden = notices.length - shown.length;
   return (
     <div
       className={
@@ -82,6 +88,14 @@ export function SystemNotifications({
           onClick={() => setExpanded(!expanded)}
         >
           {expanded ? "收起" : notices.length + " 条通知"}
+        </button>
+      )}
+      {!compact && hidden > 0 && (
+        <button
+          className="notice-expand"
+          onClick={() => (onMore ? onMore() : setExpanded(true))}
+        >
+          还有 {hidden} 条 · 查看全部
         </button>
       )}
     </div>

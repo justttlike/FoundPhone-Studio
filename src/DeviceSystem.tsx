@@ -69,6 +69,7 @@ export function DeviceLock({
   onUnlock,
   onCamera,
   onLight,
+  onNotifications,
 }: {
   work: Work;
   time: string;
@@ -80,6 +81,7 @@ export function DeviceLock({
   onUnlock: (v: string) => void;
   onCamera: () => void;
   onLight: () => void;
+  onNotifications: () => void;
 }) {
   const [code, setCode] = useState("");
   useEffect(() => {
@@ -127,11 +129,12 @@ export function DeviceLock({
           <div className="lock-notifications">
             {work.phone.notifications && (
               <SystemNotifications
-                compact
                 notices={notices}
                 apps={work.apps}
                 onOpen={open}
                 onDismiss={onDismiss}
+                onMore={onNotifications}
+                limit={8}
               />
             )}
           </div>

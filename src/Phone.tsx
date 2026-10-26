@@ -444,6 +444,7 @@ function PhoneRuntime({
                   setQuickCamera(true);
                   open("camera");
                 }}
+                onNotifications={() => setPanel("notification")}
               />
             ) : app && app !== "appstore" ? (
               <AppWindow
