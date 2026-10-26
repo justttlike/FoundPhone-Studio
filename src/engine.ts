@@ -47,12 +47,16 @@ function apply(a: Action, s: Runtime, w: Work) {
       s.notifications.push(String(a.value));
       break;
     case "call":
-      s.notifications.push(`${String(a.value)} 来电`);
+      s.notifications.push(`${String(a.value)}：来电`);
       s.incomingCall = {
         caller: String(a.value),
         target: a.key,
         status: "ringing",
       };
+      break;
+    /* 来电响完自动挂断（未接），让剧情不必等玩家操作 */
+    case "hangup":
+      s.incomingCall = null;
       break;
     case "clue":
       if (!s.clues.includes(a.key)) s.clues.push(a.key);

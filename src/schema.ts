@@ -55,6 +55,7 @@ export const actionSchema = z.object({
     "choice",
     "clue",
     "call",
+    "hangup",
   ]),
   key: z.string(),
   value: z.union([z.string(), z.number(), z.boolean()]),
@@ -106,6 +107,8 @@ export const workSchema = z.object({
     battery: z.number().min(0).max(100),
     network: z.string(),
     notifications: z.boolean(),
+    /* 为 true 时来电界面只给「拒接」，没有接听按钮 */
+    declineOnly: z.boolean().optional(),
   }),
   apps: z
     .array(

@@ -43,9 +43,10 @@ export function testStory(story: Story, work: Work) {
         state = advance(work, state, step.advanceMs);
       if (step.event) state = dispatch(work, state, step.event, step.target);
     }
-    if (!state.endings.includes(t.ending))
+    // 结局是可选的：还没有写结局的作品只需要验证这条路径能走通
+    if (t.ending && !state.endings.includes(t.ending))
       errors.push(t.name + ": 未到达结局 " + t.ending);
-    else reached.add(t.ending);
+    else if (t.ending) reached.add(t.ending);
     for (const id of t.expectUnlocked)
       if (!state.unlocked.includes(id)) errors.push(t.name + ": 未解锁 " + id);
   }

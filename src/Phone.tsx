@@ -619,7 +619,7 @@ function PhoneRuntime({
               </button>
             </div>
           )}
-          {!creator && !locked && s.incomingCall && (
+          {!creator && s.incomingCall && (
             <div className="incoming-call-screen">
               <small>
                 {s.incomingCall.status === "ringing" ? "来电" : "通话中"} ·
@@ -674,7 +674,8 @@ function PhoneRuntime({
                     {s.incomingCall.status === "ringing" ? "拒接" : "挂断"}
                   </span>
                 </button>
-                {s.incomingCall.status === "ringing" && (
+                {s.incomingCall.status === "ringing" &&
+                  !work.phone.declineOnly && (
                   <button
                     className="accept-call"
                     onClick={() => {
