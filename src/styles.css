@@ -759,6 +759,12 @@ svg {
   filter: blur(3px);
   border: 1px solid #ffffff20;
 }
+/* 自定义图片壁纸：背景图由 story.phone.wallpaper 的内嵌 data URL 内联提供 */
+.wallpaper-custom {
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
 .orb-one {
   width: 490px;
   height: 470px;

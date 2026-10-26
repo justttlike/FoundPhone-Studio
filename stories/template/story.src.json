@@ -1,0 +1,328 @@
+{
+  "scriptVersion": 1,
+  "id": "found-phone-kakao",
+  "title": "捡手机",
+  "description": "一部被遗落在路边的手机。锁屏密码 0000，KakaoTalk 里有四个人在等你回消息。",
+  "revision": 1,
+  "phone": {
+    "owner": "我",
+    "date": "2026-01-13",
+    "time": "21:47",
+    "battery": 62,
+    "network": "5G",
+    "passcode": "0000",
+    "wallpaper": "@media/wallpaper.jpg",
+    "theme": "light"
+  },
+  "installedApps": [
+    "appstore",
+    "phone",
+    "messages",
+    "contacts",
+    "photos",
+    "camera",
+    "safari",
+    "notes",
+    "calendar",
+    "clock",
+    "reminders",
+    "music",
+    "maps",
+    "wallet",
+    "settings",
+    "calculator",
+    "kakao",
+    "instagram",
+    "twitter",
+    "youtube",
+    "netflix",
+    "spotify"
+  ],
+  "contacts": [
+    {
+      "id": "kwon-oryul",
+      "name": "权五律",
+      "phone": "010-2841-7736",
+      "avatar": "@media/avatar-kwon.jpg",
+      "bio": "KakaoTalk 好友"
+    },
+    {
+      "id": "kim-yul",
+      "name": "金栗",
+      "phone": "010-3392-5184",
+      "avatar": "@media/avatar-kim.jpg",
+      "bio": "KakaoTalk 好友"
+    },
+    {
+      "id": "jung-woojin",
+      "name": "郑宇津",
+      "phone": "010-7745-2290",
+      "avatar": "@media/avatar-jung.jpg",
+      "bio": "KakaoTalk 好友"
+    },
+    {
+      "id": "im-louie",
+      "name": "林路易",
+      "phone": "010-6018-4472",
+      "avatar": "@media/avatar-im.jpg",
+      "bio": "KakaoTalk 好友"
+    }
+  ],
+  "chats": [
+    {
+      "id": "chat-kwon",
+      "app": "kakao",
+      "title": "权五律",
+      "participants": [
+        "kwon-oryul",
+        "owner"
+      ],
+      "messages": [
+        {
+          "id": "kakao-kwon-1",
+          "body": "在吗？",
+          "senderId": "kwon-oryul",
+          "time": "2026-01-13 21:31"
+        }
+      ]
+    },
+    {
+      "id": "chat-kim",
+      "app": "kakao",
+      "title": "金栗",
+      "participants": [
+        "kim-yul",
+        "owner"
+      ],
+      "messages": [
+        {
+          "id": "kakao-kim-1",
+          "body": "看到消息回我一下",
+          "senderId": "kim-yul",
+          "time": "2026-01-13 21:36"
+        }
+      ]
+    },
+    {
+      "id": "chat-jung",
+      "app": "kakao",
+      "title": "郑宇津",
+      "participants": [
+        "jung-woojin",
+        "owner"
+      ],
+      "messages": [
+        {
+          "id": "kakao-jung-1",
+          "body": "你在哪",
+          "senderId": "jung-woojin",
+          "time": "2026-01-13 21:42"
+        }
+      ]
+    },
+    {
+      "id": "chat-im",
+      "app": "kakao",
+      "title": "林路易",
+      "participants": [
+        "im-louie",
+        "owner"
+      ],
+      "messages": [
+        {
+          "id": "kakao-im-1",
+          "body": "睡了吗",
+          "senderId": "im-louie",
+          "time": "2026-01-13 21:45"
+        }
+      ]
+    }
+  ],
+  "content": {
+    "notes": [
+      {
+        "id": "memo-20260112",
+        "kind": "note",
+        "folder": "日记",
+        "sender": "我",
+        "time": "2026-01-12 01:03",
+        "title": "不要再心软",
+        "body": "我已经想了很久。不要再心软了。"
+      },
+      {
+        "id": "memo-20260108",
+        "kind": "note",
+        "folder": "日记",
+        "sender": "我",
+        "time": "2026-01-08 00:12",
+        "title": "没说出口",
+        "body": "分手的话已经在嘴边了，可是看着他的眼睛，最后还是没有说出来。我不想让他觉得自己不值得被爱。我是不是很坏"
+      },
+      {
+        "id": "memo-20260103",
+        "kind": "note",
+        "folder": "日记",
+        "sender": "我",
+        "time": "2026-01-03 23:15",
+        "title": "为什么变成这样",
+        "body": "他什么都没做只是像平时一样跟我说话，我就又开始犹豫。想起刚认识他的时候，自己明明那么喜欢他。为什么现在会变成这样？"
+      },
+      {
+        "id": "memo-20251224",
+        "kind": "note",
+        "folder": "日记",
+        "sender": "我",
+        "time": "2025-12-24 22:58",
+        "title": "圣诞节",
+        "body": "街上到处都是圣诞装饰，想起去年第一次见到他的时候，我该怎么办，怎么样才可以都开心呢？怎么样他才可以不难过呢？"
+      },
+      {
+        "id": "memo-20251209",
+        "kind": "note",
+        "folder": "日记",
+        "sender": "我",
+        "time": "2025-12-09 23:41",
+        "title": "又吵架了",
+        "body": "我们吵架了，最近总是在吵架。如果可以的话我也不想上班，我也不想工作，我也不想加班。我不想下意识觉得自己是不是又做错了什么"
+      },
+      {
+        "id": "memo-20251126",
+        "kind": "note",
+        "folder": "日记",
+        "sender": "我",
+        "time": "2025-11-26 00:26",
+        "title": "透不过气",
+        "body": "有点透不过气\n有点窒息"
+      },
+      {
+        "id": "memo-20251118",
+        "kind": "note",
+        "folder": "日记",
+        "sender": "我",
+        "time": "2025-11-18 23:10",
+        "title": "他谈起以后",
+        "body": "他谈起以后我却有点不知道怎么回应，我还能一直这样继续下去吗"
+      },
+      {
+        "id": "memo-20250914",
+        "kind": "note",
+        "folder": "日记",
+        "sender": "我",
+        "time": "2025-09-14 22:50",
+        "title": "越来越难享受恋爱",
+        "body": "今天工作结束以后只想一个人待着。但想到他可能在等我，还是主动去他了。我不想让他难过。可是我发现自己好像越来越难单纯地享受恋爱了"
+      },
+      {
+        "id": "memo-20250823",
+        "kind": "note",
+        "folder": "日记",
+        "sender": "我",
+        "time": "2025-08-23 23:33",
+        "title": "他说没关系",
+        "body": "今天又因为工作很晚才回复消息，他没有生气，只是一直说没关系。可我知道他会想很多，我也有点难过"
+      },
+      {
+        "id": "memo-20250722",
+        "kind": "note",
+        "folder": "日记",
+        "sender": "我",
+        "time": "2025-07-22 00:48",
+        "title": "想和他待在一起",
+        "body": "重力系也是被我谈到了好吧\n美色误国。可以有钱的话信女愿意不上班每天和他腻在一起。一天24小时可以25小时和他待在一起就好了"
+      },
+      {
+        "id": "memo-20250705",
+        "kind": "note",
+        "folder": "日记",
+        "sender": "我",
+        "time": "2025-07-05 23:05",
+        "title": "汉江散步",
+        "body": "天杀的老板怎么最近那么多项目难道公司只有我一个人吗\n看到他在公司楼下等我，牵着手在汉江散步，好幸福，好想哭"
+      },
+      {
+        "id": "memo-20250607",
+        "kind": "note",
+        "folder": "日记",
+        "sender": "我",
+        "time": "2025-06-07 21:30",
+        "title": "好喜欢他",
+        "body": "他好黏人呀，我好幸福呀，好喜欢他呀"
+      },
+      {
+        "id": "memo-20250520",
+        "kind": "note",
+        "folder": "日记",
+        "sender": "我",
+        "time": "2025-05-20 23:45",
+        "title": "我们在一起了",
+        "body": "今天权五律跟我表白了。真的没想到他会主动说出口，没有想到我们真的在一起了。这一天永远收~藏~"
+      },
+      {
+        "id": "memo-20250411",
+        "kind": "note",
+        "folder": "日记",
+        "sender": "我",
+        "time": "2025-04-11 22:15",
+        "title": "周末有空吗",
+        "body": "最近总是忍不住看手机。明明没有什么重要的事情，也会期待他突然发消息过来。今天他主动问我周末有没有空，我装得很平静，看起来很平静吧，是吧是吧是吧啊啊啊啊啊啊啊啊啊啊"
+      },
+      {
+        "id": "memo-20250316",
+        "kind": "note",
+        "folder": "日记",
+        "sender": "我",
+        "time": "2025-03-16 23:20",
+        "title": "他撒娇了",
+        "body": "今天才发现他明明长着一张冷淡的脸，却会在我故意逗他的时候露出有点委屈的表情。偶尔还会无意识撒娇，我从来没见过这样的人，我真的受不了了我要疯了他怎么那么可爱"
+      },
+      {
+        "id": "memo-20250220",
+        "kind": "note",
+        "folder": "日记",
+        "sender": "我",
+        "time": "2025-02-20 01:07",
+        "title": "又在想他",
+        "body": "好想他。想他了。怎么又在想。"
+      },
+      {
+        "id": "memo-20250214",
+        "kind": "note",
+        "folder": "日记",
+        "sender": "我",
+        "time": "2025-02-14 23:30",
+        "title": "情人节",
+        "body": "最近和权五律没话找话。他不像刚认识的时候那么冷淡了，偶尔也会主动跟我说话。今天是情人节，求着金栗和他们组一个局，也算是和他一起过了"
+      },
+      {
+        "id": "memo-20250121",
+        "kind": "note",
+        "folder": "日记",
+        "sender": "我",
+        "time": "2025-01-21 23:58",
+        "title": "生日",
+        "body": "今天帮权五律过生日。嗯，我求来的。好不容易从金栗嘴里知道他喜欢什么，提前半个月选乐高，我和他很熟了吗，这合适吗，突兀吗，奇怪吗"
+      },
+      {
+        "id": "memo-20250105",
+        "kind": "note",
+        "folder": "日记",
+        "sender": "我",
+        "time": "2025-01-05 22:40",
+        "title": "笑起来更好看",
+        "body": "又见到权五律了。还是很冷淡。问一句答一句，感觉多说两个字都很困难。\n但他今天笑了几次，笑起来比不笑的时候还漂亮。"
+      },
+      {
+        "id": "memo-20241228",
+        "kind": "note",
+        "folder": "日记",
+        "sender": "我",
+        "time": "2024-12-28 23:12",
+        "title": "他好漂亮",
+        "body": "他长得好漂亮。眼睛很大，睫毛很长，鼻梁很挺，嘴唇肉肉的，好漂亮。就是看起来特别冷，一副生人勿近的样子。\n回家以后还在想着他"
+      }
+    ]
+  },
+  "variables": {},
+  "events": [],
+  "tests": []
+}

@@ -310,6 +310,16 @@ function PhoneRuntime({
       ),
     });
   if (!ready) return <div className="phone-loading">正在恢复进度…</div>;
+  // 自定义图片壁纸：story.phone.wallpaper 为内嵌 data URL 时走内联背景，其余仍用预设类名
+  const customWallpaper = work.phone.wallpaper.startsWith("data:")
+    ? work.phone.wallpaper
+    : "";
+  const wallpaperClass = customWallpaper
+    ? "wallpaper-custom"
+    : `wallpaper-${work.phone.wallpaper}`;
+  const wallpaperStyle = customWallpaper
+    ? { backgroundImage: `url("${customWallpaper}")` }
+    : undefined;
   return (
     <div
       ref={shell}
@@ -318,7 +328,8 @@ function PhoneRuntime({
     >
       <KeyboardContext.Provider value={setKeyboard}>
         <div
-          className={`phone-screen wallpaper-${work.phone.wallpaper} ${locked ? "is-locked" : ""} ${app ? "in-app" : ""} ${keyboard ? "keyboard-open" : ""}`}
+          className={`phone-screen ${wallpaperClass} ${locked ? "is-locked" : ""} ${app ? "in-app" : ""} ${keyboard ? "keyboard-open" : ""}`}
+          style={wallpaperStyle}
           data-app={app}
           onDragStart={(e) => e.preventDefault()}
           onPointerDown={(e) => {
@@ -989,6 +1000,7 @@ function AppContent({
               appId={app.id}
               owner={work.phone.owner}
               virtualTime={state.time}
+              virtualDate={state.date}
               ui={state.ui?.[app.id]}
               onUi={creator ? undefined : onUi}
               name={name}
